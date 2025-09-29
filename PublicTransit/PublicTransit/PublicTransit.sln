@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicTransit.Common", "PublicTransit.Common\PublicTransit.Common.csproj", "{183F9B2D-2969-41B3-8380-52D20AC6BD42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicTransit.Console", "PublicTransit.Console\PublicTransit.Console.csproj", "{15668AA6-6EB1-4DAC-88CC-5EE4545B78C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{183F9B2D-2969-41B3-8380-52D20AC6BD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183F9B2D-2969-41B3-8380-52D20AC6BD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183F9B2D-2969-41B3-8380-52D20AC6BD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183F9B2D-2969-41B3-8380-52D20AC6BD42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15668AA6-6EB1-4DAC-88CC-5EE4545B78C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15668AA6-6EB1-4DAC-88CC-5EE4545B78C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15668AA6-6EB1-4DAC-88CC-5EE4545B78C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15668AA6-6EB1-4DAC-88CC-5EE4545B78C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
