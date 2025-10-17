@@ -1,0 +1,7002 @@
+[
+  {
+    "$type": "fly",
+    "WingSpan": 1.3045853347942327,
+    "Id": "8cece212-2bd1-4aa7-a7fb-99d07eeddcd7",
+    "Name": "Fly-74",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9436760735097556,
+    "Id": "f56ff089-d5b3-4b6a-a772-7f18f24e1a00",
+    "Name": "Fly-2",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "a9eed384-3d54-4843-8621-1a3952b08b87",
+    "Name": "Spider-53",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "46d71bbc-88c5-4bb7-9a3b-e842ab56053c",
+    "Name": "Spider-61",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9510478086077807,
+    "Id": "774563a5-366d-4998-8850-ea8132482ed2",
+    "Name": "Fly-61",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9793878458004035,
+    "Id": "dfcb314f-7d9d-43bc-8914-d42bee76af89",
+    "Name": "Fly-37",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.851317295854341,
+    "Id": "482e08ac-cfc7-44bb-9919-3d0862c20d60",
+    "Name": "Fly-85",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "e28fe296-f30b-4318-8be6-706ba682fda2",
+    "Name": "Spider-89",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.3260842362051747,
+    "Id": "02c54444-49ed-4f50-b6bc-f3c454ef29ff",
+    "Name": "Fly-87",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "9354f87b-fff5-4b35-9a50-c3b0fdef36e8",
+    "Name": "Spider-39",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "8b9df8ea-d55f-49f8-b900-3dfabbb533c4",
+    "Name": "Spider-52",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.8672932760138812,
+    "Id": "8e5d530d-e5ce-44dd-b662-706076b1cc5b",
+    "Name": "Fly-59",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.8244760758553538,
+    "Id": "d6a86bb0-9245-4f3a-b4b9-948e5f612dd8",
+    "Name": "Fly-74",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.3547932592678102,
+    "Id": "4fbcdad9-98ab-47c1-a569-0313cd557655",
+    "Name": "Fly-7",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "8c9827aa-b8b8-4174-a29e-4f6c86f54fdf",
+    "Name": "Spider-26",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.83761119640028,
+    "Id": "24ea2537-afdf-4566-9085-912f72406fad",
+    "Name": "Fly-33",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "cdd3f62d-e1a8-40fb-85c5-85bdc31bc049",
+    "Name": "Spider-40",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.8660738775704147,
+    "Id": "728f0bcf-4511-4a4e-8146-4cb95146e677",
+    "Name": "Fly-14",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "abcd3d17-c14c-49d6-9f12-657663ea83d3",
+    "Name": "Spider-37",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "ec55300b-0f67-4e5f-8f21-cbae08153f01",
+    "Name": "Spider-28",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.077312973300202,
+    "Id": "212017b3-433a-4f9b-af19-86dec44bd31d",
+    "Name": "Fly-16",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "40fdcc7c-20e6-4095-87a8-df4fbe23e92c",
+    "Name": "Spider-24",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "a0e5cc16-3625-401c-a74b-50cee087d269",
+    "Name": "Spider-91",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.6112538770297764,
+    "Id": "296d455b-0ce8-4b48-b90b-0b9e8d2f68c5",
+    "Name": "Fly-59",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.461714542009172,
+    "Id": "8006c6ee-0911-4ce6-bce3-7c21c430fe5d",
+    "Name": "Fly-44",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "d9409d11-e4d8-4920-b842-6eb82e165909",
+    "Name": "Spider-90",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.391262283009126,
+    "Id": "ae1dbc05-e4c9-4374-b649-f176fcab350a",
+    "Name": "Fly-59",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "5a56c6ce-c4fd-4b93-9bf2-4f0acd2885a7",
+    "Name": "Spider-87",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.239727353167987,
+    "Id": "2af89b6d-39c3-4e32-bf91-669f7d871aaf",
+    "Name": "Fly-48",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.492667797802064,
+    "Id": "7a7f0d32-de29-4c88-a4f0-50645119bdae",
+    "Name": "Fly-72",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "67aea8e8-9eed-4cb5-bffb-6d43b46b20b5",
+    "Name": "Spider-35",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "740fc738-1660-4521-a598-5882e547b328",
+    "Name": "Spider-40",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9767568891267677,
+    "Id": "088cc13b-32d1-4cb3-93eb-15dd18857c66",
+    "Name": "Fly-27",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.38210485013709883,
+    "Id": "acb77ce6-ff66-42a9-b8d8-0a8553238283",
+    "Name": "Fly-14",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "fc4294f4-870f-4617-8407-02c4e11ebe3a",
+    "Name": "Spider-45",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.1681166102771945,
+    "Id": "d44e148d-deea-4edf-95a5-e22c27ace3e0",
+    "Name": "Fly-7",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "88a8e4b0-93d4-48b7-9353-fd349fc44b77",
+    "Name": "Spider-36",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.019075023844384,
+    "Id": "1bff4ef3-88e4-4b44-90c4-daceb68e853f",
+    "Name": "Fly-41",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "752a4d9c-c0d9-4907-a56a-344dde0d8063",
+    "Name": "Spider-15",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.6606661493235464,
+    "Id": "3e5f832c-3675-48a8-ae71-ea705a83fd19",
+    "Name": "Fly-47",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9152806675747733,
+    "Id": "b26bb115-78d0-4bf9-95e2-9d8fa8d7d4fa",
+    "Name": "Fly-56",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "6b022d73-e692-4e1a-a857-d634392d30b9",
+    "Name": "Spider-64",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "964e565c-fcc1-4518-af1a-eb58ffec971c",
+    "Name": "Spider-82",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.204397842449172,
+    "Id": "8a55a4d9-b5e9-4581-b246-64e1db239372",
+    "Name": "Fly-60",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.8966665214229395,
+    "Id": "a6ba3a9b-6b20-4fb3-b8b8-58e4f5878787",
+    "Name": "Fly-46",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "03393542-f24c-418c-8d4e-227d7837b244",
+    "Name": "Spider-13",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.6033961419044256,
+    "Id": "f5c97174-7235-4c17-a1ff-ffc0b6b5d3f7",
+    "Name": "Fly-31",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.9735694399726396,
+    "Id": "42c0bf6d-ea5a-4728-89b6-c16856fa8419",
+    "Name": "Fly-38",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.715422704073332,
+    "Id": "38d18b6f-63a2-4e2f-83ff-d03a885add7b",
+    "Name": "Fly-74",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "1d8496f8-ea3d-4338-b58d-e3b6c7f8ec95",
+    "Name": "Spider-96",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.9258024681774557,
+    "Id": "cfd108fc-41ed-4611-b875-254d9b543568",
+    "Name": "Fly-45",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.354559352376001,
+    "Id": "9fd6621e-4e44-4aef-93cb-2b31de454598",
+    "Name": "Fly-94",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.417322754547585,
+    "Id": "b77b2d5d-a6d3-4139-b0e4-cbde27d860c8",
+    "Name": "Fly-63",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.5439561097980108,
+    "Id": "7063b90a-b8be-4def-95d5-a8c6aa1337e4",
+    "Name": "Fly-76",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "ee040ca5-447b-49c2-8aa5-9b5f88f5d25b",
+    "Name": "Spider-19",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "8600e0cb-85fc-4992-96ca-6fdff962c270",
+    "Name": "Spider-76",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.5086986189870104,
+    "Id": "acb20d0a-cd7e-4950-b79e-1e49175958d7",
+    "Name": "Fly-40",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d9b1755a-a6c1-4174-9f44-96db9f288963",
+    "Name": "Spider-3",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.181751960295109,
+    "Id": "5e36efd9-cbd8-4edd-9b9e-91780585adf9",
+    "Name": "Fly-75",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.78412037626223,
+    "Id": "ced1584f-a44e-49cc-9ca4-2a1fcaa6fcaa",
+    "Name": "Fly-77",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.7377822152202895,
+    "Id": "28fc1b56-35b5-4253-b426-0c1ff140907e",
+    "Name": "Fly-46",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "06481d87-0fb1-4869-a34d-898bd28e4f0a",
+    "Name": "Spider-94",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.4750826171521148,
+    "Id": "9a53489d-fcec-474d-99c1-6f1a8547f141",
+    "Name": "Fly-6",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9154659566519543,
+    "Id": "d5248f78-df99-4ae7-9e09-be1d589c89f6",
+    "Name": "Fly-6",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.5845137232951525,
+    "Id": "ec468729-ad0a-45ee-a7d3-0a8db4084564",
+    "Name": "Fly-7",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.601401189259721,
+    "Id": "9cc0b32b-dd3a-4d6a-b5f2-1e24b0a2d26b",
+    "Name": "Fly-36",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.378271261529879,
+    "Id": "14b9a556-f904-40f3-8063-6f6289eb9db5",
+    "Name": "Fly-8",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.7432573459394465,
+    "Id": "400312f5-9a5c-434c-8298-7f0266b89ebc",
+    "Name": "Fly-64",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "fe162f39-8017-495b-b48c-be188a4ed9fa",
+    "Name": "Spider-98",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.1096642113971322,
+    "Id": "317f5c61-c7e6-4969-8b29-a0b6160f61eb",
+    "Name": "Fly-97",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "38cae62f-65a0-4f6f-b717-afc9950166fd",
+    "Name": "Spider-19",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "c8887a2d-9083-4cad-b0ac-04ae43f9ba11",
+    "Name": "Spider-92",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "143dcd0c-4159-4243-a068-bfd7c7c71544",
+    "Name": "Spider-52",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.035615198281847,
+    "Id": "d74307e5-23e3-47a3-9fda-8d783b343b43",
+    "Name": "Fly-86",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.632949838591195,
+    "Id": "dedb643c-7575-43d8-9488-05e0facd8a8a",
+    "Name": "Fly-40",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "a7693098-fe86-40a3-a523-299a079dad2a",
+    "Name": "Spider-44",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.7489038415019422,
+    "Id": "3d79bce4-c13f-44da-bd25-d66090b30ae7",
+    "Name": "Fly-22",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.9853566341116853,
+    "Id": "e943c90a-379d-4fe9-a844-fc7c2e4e55d7",
+    "Name": "Fly-22",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "994a3fc7-a178-418a-acad-096ad4b387b8",
+    "Name": "Spider-7",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "367f8850-2aee-4b65-82eb-ff252365fdef",
+    "Name": "Spider-40",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "ae19473a-64fe-42a5-aa3d-63d8a6ce3e7b",
+    "Name": "Spider-78",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9307303647860086,
+    "Id": "2010fec8-c7fd-46b3-b31f-b5807c3f8a42",
+    "Name": "Fly-5",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.486841701429919,
+    "Id": "1aa735f7-42fd-4a66-8524-e95d440a4da5",
+    "Name": "Fly-54",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "c6c2807b-6b4d-4ab0-9cfb-659e2a70efab",
+    "Name": "Spider-84",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "4a0ca692-c540-4a5f-a69d-c1e92c15f183",
+    "Name": "Spider-57",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "2ea7ca43-64d7-4ce6-b525-3a5c24ff0718",
+    "Name": "Spider-78",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "53a58fb1-fcf3-442a-ae4a-0ad6b8600d9d",
+    "Name": "Spider-6",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "b9d0c979-e39e-4e7d-9872-12d30cd4c8d0",
+    "Name": "Spider-23",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "abf5b5a7-c436-4125-bef7-ba43fb4be2f6",
+    "Name": "Spider-96",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "242be845-25ee-44b9-b53b-1271c56021ce",
+    "Name": "Spider-66",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "00f3b74e-0d35-4f44-be24-8f1a13a6e0af",
+    "Name": "Spider-27",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.6659432230675089,
+    "Id": "d3c04b2d-f5d2-4c70-9fc1-f120b2a91155",
+    "Name": "Fly-26",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.8821112522771535,
+    "Id": "43ea54a0-e6d1-41c9-bd5c-71bb0e63a7b7",
+    "Name": "Fly-46",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.390406976337018,
+    "Id": "aabc2b63-5e7d-48b9-8021-24f8955207ef",
+    "Name": "Fly-97",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "db52fa27-4b40-4f9e-82b5-a9f91f49b56c",
+    "Name": "Spider-38",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "0e3231a3-aabe-4aae-b477-4a9bf5ba3066",
+    "Name": "Spider-79",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "7016e8f7-702b-4ca5-a566-b76b573467ac",
+    "Name": "Spider-11",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.279095163006733,
+    "Id": "bf355a7b-79fc-44f9-a99f-f901809a9ff8",
+    "Name": "Fly-64",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.8767470865658864,
+    "Id": "e0f3d046-8de6-44a4-8d25-abf71e455084",
+    "Name": "Fly-16",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "07ad52cd-e9aa-463a-9b67-2b00bede85e3",
+    "Name": "Spider-91",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "a55f4335-0c6d-4cf9-96e1-b96369aed707",
+    "Name": "Spider-40",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.0851862524731728,
+    "Id": "9ccee8aa-b50b-4b4c-9b75-c0128f9c4436",
+    "Name": "Fly-85",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "17a40bd3-5c71-4189-9035-322f589ac8bc",
+    "Name": "Spider-68",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "2dd10bce-fb72-4dc1-ba07-8c3afa6f64f8",
+    "Name": "Spider-55",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.179436120979679,
+    "Id": "8b2a01a7-2d40-4cc8-936a-74a7fa65640c",
+    "Name": "Fly-81",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "6658f3c7-f6e4-4b16-a51b-ca9e30652708",
+    "Name": "Spider-87",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.5521052280319476,
+    "Id": "df23ff01-9e41-49e4-ac96-18521d8665ed",
+    "Name": "Fly-70",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.534581595587671,
+    "Id": "79e705c0-7453-41e1-ab5e-3d824871cd9a",
+    "Name": "Fly-69",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "e3d0f632-6a33-41e8-b207-5584eda776ac",
+    "Name": "Spider-63",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "7d8b777c-3c33-4400-813c-e11b1842df6d",
+    "Name": "Spider-33",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.870150342830173,
+    "Id": "f537fb5a-4a38-46e3-9a0d-f36cc2efe65b",
+    "Name": "Fly-59",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.7999126239380322,
+    "Id": "bd342b44-bdb8-4add-88e0-8931c0e97801",
+    "Name": "Fly-16",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.2273224951099682,
+    "Id": "2923ee56-c5be-4637-9069-a2d17c7567e1",
+    "Name": "Fly-27",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "82b092d3-0729-4d80-970e-e864e2e24040",
+    "Name": "Spider-93",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.4610746059868278,
+    "Id": "bd9167a2-a702-43f2-b35d-c5f138185e5f",
+    "Name": "Fly-5",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.7592144501198628,
+    "Id": "bac0de8d-d063-4b7c-a247-30d43ea5426e",
+    "Name": "Fly-81",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.7165651462636988,
+    "Id": "16a12df7-d2f3-4616-bdec-d3c7c8350c35",
+    "Name": "Fly-39",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.5989986102031972,
+    "Id": "5ab94caa-04cc-4b19-a9a9-50f4e2847ba5",
+    "Name": "Fly-66",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.9704238561755147,
+    "Id": "6b571e8b-89b2-4469-b0a2-f69e200b1767",
+    "Name": "Fly-36",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "5b75d536-017e-447d-817d-807742748bd9",
+    "Name": "Spider-45",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d7c0e329-4120-4066-bb91-45b22bbf9de7",
+    "Name": "Spider-31",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.6017794707672657,
+    "Id": "786f1d69-4ff8-48b5-871a-cf63d79959bf",
+    "Name": "Fly-62",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.274695714054496,
+    "Id": "441ae9bc-44b7-40f3-8d55-4d3566671b13",
+    "Name": "Fly-73",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "68b48834-5337-4e86-a449-e1322bd75bc4",
+    "Name": "Spider-17",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.9396414568363862,
+    "Id": "38a49d9a-6cef-4e0b-8d44-7c7ca4249c0c",
+    "Name": "Fly-11",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "ea9844a3-671b-4696-81f6-a224e26c9fbd",
+    "Name": "Spider-15",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.19863226505764164,
+    "Id": "288cacaa-f8de-4467-a8c1-8911fe657cc5",
+    "Name": "Fly-52",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "640538ca-c9d9-47ed-84d0-f06e498c55a3",
+    "Name": "Spider-54",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.6752057949089743,
+    "Id": "209a422f-e5e8-4e42-a303-4edaa02db3d0",
+    "Name": "Fly-58",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.2498052050418753,
+    "Id": "1b4d408c-5af8-48cd-b438-89ba114df3e7",
+    "Name": "Fly-87",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.6316802695423168,
+    "Id": "d5ca0706-7330-4efc-87af-ddf844612e45",
+    "Name": "Fly-62",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "9110a40e-bed6-442f-984d-36a62761e86c",
+    "Name": "Spider-45",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "6f9e96d4-0a9f-41a5-a89f-414862a18811",
+    "Name": "Spider-81",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "aef31e0b-32f3-4de5-ab05-da508b10937e",
+    "Name": "Spider-93",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.882015551506288,
+    "Id": "a045d6c2-084a-414b-bbbf-6a9749110726",
+    "Name": "Fly-49",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "6ef8d4b9-f16e-4d37-b80d-b04474c6ae61",
+    "Name": "Spider-17",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "3f8342ce-3bb9-488c-bc30-7b947c85a1cc",
+    "Name": "Spider-43",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "f6b18812-70c6-4af6-a6d8-a860ac5b973b",
+    "Name": "Spider-60",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "7463e7bf-02f2-401d-b8dd-fc2258996e1b",
+    "Name": "Spider-17",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "98f1741f-07b5-4c20-8661-5e5b49dc05e2",
+    "Name": "Spider-19",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.117989463808601,
+    "Id": "d228b15f-8784-4732-832e-9c6271709e8c",
+    "Name": "Fly-24",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.7391797119337928,
+    "Id": "2269fd4f-5485-4f17-b518-ab7f95aaad2b",
+    "Name": "Fly-49",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "750f8f58-cb56-4b99-832a-59d9d6a78213",
+    "Name": "Spider-26",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.620918138858853,
+    "Id": "ff626025-f13b-40ac-b72c-b7787b7c52d3",
+    "Name": "Fly-75",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "2f65d22f-2f7c-4c8e-be4d-9a1aa0c2fc0a",
+    "Name": "Spider-59",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "6ea015f0-c9b4-49f2-b2d2-927f30b4e97e",
+    "Name": "Spider-6",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.726652131085249,
+    "Id": "a96eb9b1-faae-41f2-92b7-e10bbade7e5a",
+    "Name": "Fly-39",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.542441601754224,
+    "Id": "edd6011d-338f-4955-9162-26487285bf7a",
+    "Name": "Fly-67",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "c33d8988-08f3-4480-8475-55846c4694c1",
+    "Name": "Spider-30",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.2967212637185437,
+    "Id": "1c589cf3-35f9-49d4-b4ed-61796db002ed",
+    "Name": "Fly-52",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "8fd82ba5-fe35-407b-9d88-eef140e57bd8",
+    "Name": "Spider-36",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.912065332678664,
+    "Id": "3d82574e-24c5-46ae-92f8-2ccf1bff5cca",
+    "Name": "Fly-13",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.032104896721165,
+    "Id": "ceaa7566-82b9-41af-846f-a018dd2ee5c5",
+    "Name": "Fly-38",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "5032c152-2077-4837-bdad-8700d9af0175",
+    "Name": "Spider-44",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.17861835178478225,
+    "Id": "157f32bb-6513-4cb3-ba1a-39c4c270e4d2",
+    "Name": "Fly-35",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.34453368123587347,
+    "Id": "d26e1026-0593-4a50-933b-ff11425c2e88",
+    "Name": "Fly-77",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.177251011995286,
+    "Id": "f030ddcd-fb90-4ffa-9a82-facf380a24a9",
+    "Name": "Fly-42",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "02f05a06-ee5f-497e-96ac-bf32dfd02175",
+    "Name": "Spider-89",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "647b3e40-a741-4b19-8759-98e46300df91",
+    "Name": "Spider-74",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9058238730398593,
+    "Id": "2f40fa02-08ec-4e0a-bc5f-d8d88a962da6",
+    "Name": "Fly-87",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.8396869233771143,
+    "Id": "39148ac3-7d3c-4b5d-b892-13fbc87a4ec8",
+    "Name": "Fly-14",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "602ee13e-ee74-4fab-b338-a48c7f210e13",
+    "Name": "Spider-14",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.7708370537515694,
+    "Id": "29fc9706-040f-4ced-9c85-34d5ea98287b",
+    "Name": "Fly-7",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "28c1c43e-a400-4bf5-8c31-637c8e910984",
+    "Name": "Spider-12",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "d4b8c0e9-e7ab-4d88-a8de-01542af11be5",
+    "Name": "Spider-11",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "cd66668b-4da0-48c8-bf8b-5d9b102fc208",
+    "Name": "Spider-3",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.328870486642608,
+    "Id": "d194d03f-e0ad-4474-ab18-61d96f7a8e69",
+    "Name": "Fly-31",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.855847879255719,
+    "Id": "b0a01b52-c52f-4c88-97a1-0b168b738556",
+    "Name": "Fly-11",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "9fc9b41d-35b0-4a40-812e-a7ffe59fc957",
+    "Name": "Spider-85",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.7204549279937016,
+    "Id": "7acb96d8-5169-4b8b-bfa7-913aec66413c",
+    "Name": "Fly-23",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.097155089733558,
+    "Id": "f12c0b20-0cad-4fe0-a90a-78df59be1c62",
+    "Name": "Fly-17",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d14cfc2d-e2d3-4c9d-956d-10ce704d8345",
+    "Name": "Spider-22",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "b04bbb65-bc8b-4900-b4d6-e2531674dfb7",
+    "Name": "Spider-75",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.31043914595829,
+    "Id": "694fbd19-7195-4acd-8a25-b9a367e77a6b",
+    "Name": "Fly-54",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.28926298146991936,
+    "Id": "a5b4a6c2-bcf1-44a2-b342-bf0cd98da557",
+    "Name": "Fly-90",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.7956189762576757,
+    "Id": "4df04fb1-ec0b-46a8-a252-97d14c89b453",
+    "Name": "Fly-64",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.489225775533816,
+    "Id": "8f9e31e2-dfd1-47e1-bb9c-9735bb4ab265",
+    "Name": "Fly-8",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.548250890944215,
+    "Id": "872d0134-55a6-4b16-9875-eb110c4b0677",
+    "Name": "Fly-12",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "e9e9489b-d248-4ddf-bcbc-23e26fb28565",
+    "Name": "Spider-55",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.308015288163808,
+    "Id": "c07fa2ac-bf2b-42a7-af2f-bdcc3918a819",
+    "Name": "Fly-58",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "2a859d38-89c5-4187-8610-2ce5ffff8a22",
+    "Name": "Spider-22",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.6180539287674522,
+    "Id": "a206e4c8-3653-4b21-920f-cc56e6511406",
+    "Name": "Fly-78",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "7602e27f-8899-4c8a-b2d2-1d120671bb91",
+    "Name": "Spider-53",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "3d8a1ee9-a52b-44af-93b0-116ff2b5b547",
+    "Name": "Spider-5",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.8596631617887702,
+    "Id": "9d22a412-aed7-4589-b304-38e46ed37c90",
+    "Name": "Fly-74",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.63718794070992,
+    "Id": "e4a9fabc-470e-4614-a3dd-da1941224b76",
+    "Name": "Fly-96",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.9740215263976968,
+    "Id": "f31e696e-ac76-43bb-af64-af030f9575c7",
+    "Name": "Fly-44",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.825508376442924,
+    "Id": "42d63d2a-adc0-4f0a-ac28-f8e9bb04dead",
+    "Name": "Fly-52",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.97354732246192,
+    "Id": "0bb6aa01-6df7-41c6-886d-36e456b10f4b",
+    "Name": "Fly-40",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "dbc95c6a-440e-4985-a402-ae16bbb9d54d",
+    "Name": "Spider-90",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.7839465126515277,
+    "Id": "b4b00f32-1d09-4e63-8407-73741d28a54d",
+    "Name": "Fly-37",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "ef6e0bbf-1bf7-422d-b107-2682e2aa9e21",
+    "Name": "Spider-6",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "0dc17e3a-4f5c-4eb7-b04e-42c032ae6a7f",
+    "Name": "Spider-26",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "59cbf434-33ee-4dda-a9f9-86351460aff9",
+    "Name": "Spider-35",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.2097678990903604,
+    "Id": "644c5db0-92ad-48ed-9ab3-e348e71a54cc",
+    "Name": "Fly-23",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "fb43d0f1-ac4b-40d3-a2d2-f8543e95cfcf",
+    "Name": "Spider-84",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "d3fbb87c-9479-4146-85f5-e05646822603",
+    "Name": "Spider-67",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.156534508856085,
+    "Id": "d67227f6-a094-42a4-a8b5-e2c30dc55bb2",
+    "Name": "Fly-84",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "5b6bad7f-07ed-447e-8fb3-ad85c8869738",
+    "Name": "Spider-48",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.01754517856711,
+    "Id": "fc8f65c8-3cd2-4bd5-b129-557e7cfd0533",
+    "Name": "Fly-69",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "24abc3d0-3beb-4e8f-9151-bb0f01060f7b",
+    "Name": "Spider-9",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.342418535970142,
+    "Id": "3db347fa-7227-42db-a61a-4c67431dd732",
+    "Name": "Fly-17",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "f1a354d5-1abc-444d-a207-498efc07d31d",
+    "Name": "Spider-28",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.9879112283531355,
+    "Id": "3bbb5502-48a5-4f6e-91cb-288ada56ece1",
+    "Name": "Fly-27",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.658119476927434,
+    "Id": "fbb7c9c1-5add-4096-bd70-54ba1b16428f",
+    "Name": "Fly-96",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.19850561252198085,
+    "Id": "b27d0bb7-74d6-44aa-b0c7-a04764cff892",
+    "Name": "Fly-53",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "1010c171-acee-4e55-b0e7-9be36def368c",
+    "Name": "Spider-75",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.5759451060785375,
+    "Id": "f596d2a3-e0b9-4bfe-b342-6ca7956345e9",
+    "Name": "Fly-26",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "e3cc5692-c663-4a48-a19f-26cad5166b2b",
+    "Name": "Spider-45",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "aef76f94-0e5f-4300-b8bf-b3599f0616e7",
+    "Name": "Spider-51",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.546898712614235,
+    "Id": "8b790d68-2ef5-41fe-86ea-7d1715b171cf",
+    "Name": "Fly-13",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.930606190452294,
+    "Id": "c089b29a-a093-404b-ba1b-63878cafe327",
+    "Name": "Fly-31",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "e3b0f0d8-bf49-4ce1-b7f5-00d952cdc223",
+    "Name": "Spider-14",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "075e7309-62b8-48ea-8c99-43816a8b51fe",
+    "Name": "Spider-93",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "251fbdf3-16b5-458d-8010-9cac71570039",
+    "Name": "Spider-66",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.728893554502207,
+    "Id": "02b5aeb4-cbd3-47a8-b42e-7ad0a75028bd",
+    "Name": "Fly-26",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.143662325445124,
+    "Id": "9b3fa4f6-54cb-412a-8bc3-33d4229b3a6e",
+    "Name": "Fly-58",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "6086d3ae-a93a-4cd3-a083-0c3074d6a12c",
+    "Name": "Spider-89",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.11910665301220424,
+    "Id": "b672bf75-c2a1-4660-b0f7-44be636662d3",
+    "Name": "Fly-42",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.435453082374112,
+    "Id": "6d9c75ff-3ae1-4abd-8b6d-5b8e4265881c",
+    "Name": "Fly-7",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.18091719386612193,
+    "Id": "f6cffbdc-9db7-422d-b486-8847ba4a8e1a",
+    "Name": "Fly-11",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "272d01ff-a3a6-4d07-8480-aa93b22dec4d",
+    "Name": "Spider-16",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.023311657058164847,
+    "Id": "db35a5c9-a516-4b25-96d3-47ded7ad5e34",
+    "Name": "Fly-58",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "0e641bbd-dad1-4cc3-bb71-3e24f5a25636",
+    "Name": "Spider-74",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.6872333864958327,
+    "Id": "5487a3de-2d84-4e7f-b3b5-76a9167c4e54",
+    "Name": "Fly-6",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.096906426919216,
+    "Id": "50a608d3-6c80-451f-b1cc-a30246e676f7",
+    "Name": "Fly-49",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d7d970d5-1ace-4bd0-8915-b54209f20570",
+    "Name": "Spider-46",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.8959315078083545,
+    "Id": "f0ac256d-1f78-4492-8b9d-6ed74d4e09cd",
+    "Name": "Fly-51",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.8883123830494549,
+    "Id": "84d4efaa-3498-4454-b30a-d050e7bd6591",
+    "Name": "Fly-52",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.5341883217047294,
+    "Id": "ed8eb968-9b37-44e9-b8ff-49d95ab821ac",
+    "Name": "Fly-41",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.7851074436180827,
+    "Id": "8cbe0da5-cea5-4151-89d6-a0127a08fe1a",
+    "Name": "Fly-69",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "a672d244-1c96-4cb7-b6b1-c960b6ea04fe",
+    "Name": "Spider-1",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.155642006837275,
+    "Id": "84d87a8c-7705-4cb1-9ef5-5cbffb5bd545",
+    "Name": "Fly-63",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "2ae85c23-4f6c-444c-a4be-a9421ef32975",
+    "Name": "Spider-43",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "b34347e4-a1ba-48c1-aa09-ab3862a15bb8",
+    "Name": "Spider-1",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.064781109834577,
+    "Id": "edafba13-cf72-44d5-88db-6cb287bb8ec4",
+    "Name": "Fly-54",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "d880e455-b8a1-4b64-b701-37203ec1ee6f",
+    "Name": "Spider-21",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "4e39a591-5449-4ae7-a50d-76932c3972e3",
+    "Name": "Spider-37",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.617709946712844,
+    "Id": "02963327-bc4c-4b35-a991-18727fd5e3e7",
+    "Name": "Fly-48",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "fc8edcba-18b8-4408-86ca-57f1687b630e",
+    "Name": "Spider-35",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.5188066255108015,
+    "Id": "ac683f07-c92a-4196-92db-8e5662cb74af",
+    "Name": "Fly-36",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "869738a4-ce87-40e8-b9dd-9f249043d22c",
+    "Name": "Spider-6",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.3843126559015164,
+    "Id": "2e369004-e924-4f5f-a56a-2cb7c50ee215",
+    "Name": "Fly-56",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "c1923e88-6d5e-427f-8591-869840aeb084",
+    "Name": "Spider-61",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "ee9fe8b7-bb06-49d9-bdb3-cf7bda428f3f",
+    "Name": "Spider-20",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.501911692335455,
+    "Id": "3f85fa2d-13a1-4053-a40e-60738adac733",
+    "Name": "Fly-38",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "7aff300c-5e76-4e4f-be02-3f6cf3661993",
+    "Name": "Spider-57",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.9631536879167474,
+    "Id": "3a2e8f52-474f-4bcb-bb8f-843a58b7c42b",
+    "Name": "Fly-12",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "d0825352-f491-4157-9e7a-8295c5f4007c",
+    "Name": "Spider-92",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "170f07cd-c446-4779-aae2-1682928e9218",
+    "Name": "Spider-52",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "f9f65455-3164-451d-9281-ac3e5a0e0d4b",
+    "Name": "Spider-10",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.5039258185008268,
+    "Id": "f0e2fb10-12d3-4a75-8375-c7f413cfe608",
+    "Name": "Fly-94",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.75217119178476,
+    "Id": "93d9c1b0-9b0f-4992-8563-78b91b150257",
+    "Name": "Fly-9",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.5267931816000471,
+    "Id": "8d2b8af5-ea7f-4698-85c7-7cefe11e0a6f",
+    "Name": "Fly-39",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "390c381d-c8b3-4d40-a6a5-ebb9e52958ec",
+    "Name": "Spider-30",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.659027915075372,
+    "Id": "24785cce-e698-4c32-8025-7748434a27e4",
+    "Name": "Fly-52",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.887278908299891,
+    "Id": "18865912-9c05-468f-8ecb-c5a7089a63cd",
+    "Name": "Fly-79",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "9ac70790-cc85-4963-ba06-f038d858ac1c",
+    "Name": "Spider-5",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.7550756887366811,
+    "Id": "ed694b8c-a41d-4382-84ff-013eb0e9ac76",
+    "Name": "Fly-94",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "40e15d55-898e-4759-b276-c3aa3bc96c46",
+    "Name": "Spider-49",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.3180435521142372,
+    "Id": "cc83425d-75d8-40f6-8e07-d562cfe8ffae",
+    "Name": "Fly-8",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "07601169-7002-45fd-bc1a-5dd35ee40b54",
+    "Name": "Spider-62",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "ba5435cb-a980-42ed-85ed-6af382121e21",
+    "Name": "Spider-71",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "c888b1c8-8d45-4bd3-97c0-799c84d9963f",
+    "Name": "Spider-90",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.3497577237912695,
+    "Id": "5877a4bf-5e82-4d68-a4cc-9204f47df355",
+    "Name": "Fly-21",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.8858074275773293,
+    "Id": "fe5dc493-9ff4-4d38-a0b7-de6e30275287",
+    "Name": "Fly-93",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.2217259602340382,
+    "Id": "c788df1b-ad5c-4f7d-a79f-1db36b0b44f0",
+    "Name": "Fly-3",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.6085204928562815,
+    "Id": "b05abaca-a5d1-4356-83e3-58b90d7041b6",
+    "Name": "Fly-54",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "692cd1aa-d60f-4fae-9691-d86a8c64883b",
+    "Name": "Spider-93",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d7631cf7-f6cf-4024-b3b1-db992e976b4f",
+    "Name": "Spider-24",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.8711044655974796,
+    "Id": "d4ac8225-4f24-4370-9544-09babab09f66",
+    "Name": "Fly-82",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "6b199deb-4b38-443c-9ae8-0cda6d551e7f",
+    "Name": "Spider-48",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.2649841875727401,
+    "Id": "ddacd53a-5222-4de7-8301-fa40505dfbde",
+    "Name": "Fly-80",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.5448231935660447,
+    "Id": "29b98065-a983-48e2-ae30-594984f62df1",
+    "Name": "Fly-51",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.47392093450237927,
+    "Id": "81653770-b9f1-4ae5-8926-7c7825e9db86",
+    "Name": "Fly-4",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.559977294211599,
+    "Id": "34533689-f30f-4892-ac1c-5b9f554c49c7",
+    "Name": "Fly-5",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "d3c03490-9332-4142-b9af-71b58bf8111e",
+    "Name": "Spider-84",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.952739428610735,
+    "Id": "26e9d6d7-d74d-44d7-9175-d59e3980015e",
+    "Name": "Fly-49",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.053311320708047,
+    "Id": "6d46a0c6-f229-42b1-9dcf-9a78164778a9",
+    "Name": "Fly-66",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.393607055387967,
+    "Id": "7ca27109-6270-4147-88af-1552974fa73d",
+    "Name": "Fly-89",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "0fc5391d-1ca8-4a04-a710-ba59e1cc26f7",
+    "Name": "Spider-20",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "cc023455-34e4-49ec-83f7-2a39f96b096b",
+    "Name": "Spider-26",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.384099299678068,
+    "Id": "d97aa7c4-c05f-4264-b9a9-d8fa0b6c63b8",
+    "Name": "Fly-55",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.713393476736605,
+    "Id": "3ab469ee-03bc-454e-9065-ea380bfab607",
+    "Name": "Fly-6",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.6087269861917127,
+    "Id": "055d337c-b050-426c-92fa-6d3ded55591e",
+    "Name": "Fly-76",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9651179006105126,
+    "Id": "580f1287-7f23-41b2-b0e9-db7d47b88a5e",
+    "Name": "Fly-58",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "eaacfcc9-ac8a-4abe-a0f7-2f5896a360aa",
+    "Name": "Spider-54",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "149a5ff4-397b-480d-a8c8-414a517fab9d",
+    "Name": "Spider-48",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "d6e9fdec-168d-4334-ae3f-da926f63628a",
+    "Name": "Spider-91",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "c994ba62-e995-49fb-b944-31487debbca8",
+    "Name": "Spider-50",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "646b9f42-bb36-4013-8a5a-691acfad20f3",
+    "Name": "Spider-93",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.6822861205962547,
+    "Id": "d133f231-c42b-42f4-abe7-73f29229e4aa",
+    "Name": "Fly-69",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.340536689131853,
+    "Id": "ebd449ce-8629-414b-9c86-6fab243a46a8",
+    "Name": "Fly-96",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.8780266416337286,
+    "Id": "8d9eae1c-e0f6-4902-b683-ecfdd1aa699e",
+    "Name": "Fly-80",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.9960979934164444,
+    "Id": "3150fc91-cf0b-4739-b8fa-abcea55def80",
+    "Name": "Fly-7",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "b3ddad78-b4ee-40df-81bf-a0776b9030fa",
+    "Name": "Spider-72",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "dc02d362-84f8-4807-80c2-e1e651eface1",
+    "Name": "Spider-5",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.1765185992858681,
+    "Id": "98322c9f-3f06-4b16-9ce7-ef131d2c4d2c",
+    "Name": "Fly-19",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "4e9b34f8-96d5-40d0-959c-a0974843bec0",
+    "Name": "Spider-98",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "b3cfb0a4-0c6b-4dac-b466-a36e9bb7b1af",
+    "Name": "Spider-43",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "e889eddd-e458-46c6-9423-ab47e9f46b98",
+    "Name": "Spider-14",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "e1390491-5d60-4f2b-ae51-abb22bbbf7b3",
+    "Name": "Spider-98",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.709240470031379,
+    "Id": "6d4b8cae-46b1-4925-871e-8bf0a27caeaa",
+    "Name": "Fly-20",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.259203993930501,
+    "Id": "58bee577-920a-47cd-9951-502e57f3fd80",
+    "Name": "Fly-26",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.183434243070955,
+    "Id": "21b45e6b-34a9-4b45-9407-e3d92265e22d",
+    "Name": "Fly-77",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.6847876670134332,
+    "Id": "870b693e-45b4-4ab3-b476-3b5eefe7e6be",
+    "Name": "Fly-76",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "a3e844f6-afc8-4752-8d95-68434ac6dc28",
+    "Name": "Spider-16",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "27bbb758-1ba4-4a8c-b042-9cd42d53bba7",
+    "Name": "Spider-53",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.096889329282655,
+    "Id": "ba0c078e-dba3-4282-aae7-891b3afb1c5e",
+    "Name": "Fly-62",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.6748518355908644,
+    "Id": "02cecdf1-5ef9-4e7d-bb69-2c0d5746deac",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "b61f058c-2132-4906-9763-bb29847a79a8",
+    "Name": "Spider-33",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.2831675265016482,
+    "Id": "155b8d14-8a39-4419-9cc0-60973ac2d4da",
+    "Name": "Fly-19",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "36c2a931-44b2-47d5-87d9-560d66a7301f",
+    "Name": "Spider-87",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "a22a2650-66ad-460e-9c31-560fbe15fe10",
+    "Name": "Spider-45",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "3924f81c-7a27-406a-bd7b-f3b0cfd17d7b",
+    "Name": "Spider-22",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.395906438069846,
+    "Id": "7761c921-7ab6-4721-ae0e-a1f25126a827",
+    "Name": "Fly-29",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.6590667122285696,
+    "Id": "781b6f44-c485-4155-9e9d-6e6a6bd96621",
+    "Name": "Fly-97",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "ee4ed892-d015-475b-936b-e7ebb80f1632",
+    "Name": "Spider-40",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.5344853067350358,
+    "Id": "51f1d7bf-7d94-4c69-ae46-13ae8b8e8a43",
+    "Name": "Fly-51",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.5823294639360812,
+    "Id": "77826ee5-dbc3-4090-837c-56567d33a09e",
+    "Name": "Fly-75",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "1873c1a4-cb1f-45c4-91cc-f9306c79d838",
+    "Name": "Spider-98",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "618fd79c-2a43-4ef4-a4a7-b7eeec363158",
+    "Name": "Spider-64",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.5523399901881219,
+    "Id": "26b9c508-b4c4-4851-ad54-dec807951078",
+    "Name": "Fly-32",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "cd6bddb2-83b4-449d-ad20-f4c6a942c93a",
+    "Name": "Spider-39",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "124733cf-5e2c-415a-b018-ee4189d5cafa",
+    "Name": "Spider-73",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.559251165037912,
+    "Id": "33c7f2c3-a601-4286-8258-1026dafcbbe9",
+    "Name": "Fly-94",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "11e4d5f4-d3e1-4f7f-b549-f887a0af5cb4",
+    "Name": "Spider-34",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.458503499705659,
+    "Id": "baf98727-1af8-4efc-862e-c38f231eece0",
+    "Name": "Fly-38",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.535905768982981,
+    "Id": "18bf419e-45ef-4964-a346-7a7d6d6f9e44",
+    "Name": "Fly-88",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "b46f2301-07ba-499b-9019-1532c5180dbf",
+    "Name": "Spider-10",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.963680019419352,
+    "Id": "68d63cbb-9fd0-4a36-8e55-bf0268ec8c4d",
+    "Name": "Fly-84",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.1764364973962267,
+    "Id": "651eb48b-5c11-4581-8c71-cb548228f135",
+    "Name": "Fly-97",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "a4e842af-7da7-4f00-a561-3b5d0b497721",
+    "Name": "Spider-40",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "a542e5cf-cefd-46e5-a8b1-462a40f4fe14",
+    "Name": "Spider-51",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "9757f9f9-7031-45db-bbc0-6eb25246940d",
+    "Name": "Spider-9",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.5538909218501744,
+    "Id": "29a1da57-f6f0-4ea6-be59-9768bd0eefea",
+    "Name": "Fly-35",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.764365072751743,
+    "Id": "36115e24-d3c7-4288-9e92-396585648094",
+    "Name": "Fly-63",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "f95ea590-dd77-4ee3-a469-b832aaba712b",
+    "Name": "Spider-64",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.916592098989695,
+    "Id": "6fb7b6f6-d68a-4871-a59b-94bb8c49763e",
+    "Name": "Fly-92",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.5171163675261115,
+    "Id": "e561a99a-dcfe-42e2-b75a-d6c06e945702",
+    "Name": "Fly-6",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "9f8ffb24-adbf-4831-b374-2b63f33c945f",
+    "Name": "Spider-48",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "329e49a5-233f-4f57-b3e8-efaffd410744",
+    "Name": "Spider-76",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.8470639632843968,
+    "Id": "50233fc3-f95c-4143-a891-8da0688f382d",
+    "Name": "Fly-21",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.3406973765397385,
+    "Id": "37272659-641d-489c-baad-a00ba2e9f41b",
+    "Name": "Fly-99",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "27b73584-2ca4-418f-a2ac-65755428719b",
+    "Name": "Spider-98",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "4e34abd6-d171-462d-81db-c39594a8cce1",
+    "Name": "Spider-85",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "65943dbd-c82c-42c6-ae77-2fd0d3c6cac0",
+    "Name": "Spider-86",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "dae14ced-ab12-4f13-a0a8-8c42c22c4960",
+    "Name": "Spider-9",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "63656b32-c185-4d62-8c81-95121eb77f70",
+    "Name": "Spider-67",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "9e92a632-0098-476d-a9dd-cbfff2e8e40f",
+    "Name": "Spider-73",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "216675c5-234f-48e0-972a-fa2d22d7244b",
+    "Name": "Spider-73",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.9836603061697704,
+    "Id": "2349fe47-f065-4b14-a21b-cc06fcffb58d",
+    "Name": "Fly-40",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.4574970131262655,
+    "Id": "743cfcf7-e2aa-4615-b65a-1e930a1f1ae7",
+    "Name": "Fly-6",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.0175763462769565,
+    "Id": "819228cc-af84-4ecc-a071-9d36a829cf7d",
+    "Name": "Fly-52",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.9405400964660924,
+    "Id": "f52e13a5-f797-4627-8458-7e7e098bd739",
+    "Name": "Fly-54",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "b235972e-1198-425f-89b7-fda7061ca1d9",
+    "Name": "Spider-99",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.112546720366857,
+    "Id": "592c3631-70bd-4a7d-a37f-32b2ef1c73aa",
+    "Name": "Fly-45",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.30231477911852,
+    "Id": "20f6d55c-e5ed-447f-9c38-51aa73331b34",
+    "Name": "Fly-45",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "65f2d8de-93b1-427c-a962-9f22e44cbdd4",
+    "Name": "Spider-64",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "d6f3ebbe-503a-4b11-a0c1-8b914270781b",
+    "Name": "Spider-67",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "478f06f6-0f0f-4190-a3f8-1bac3b3776cc",
+    "Name": "Spider-26",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.62185277144692,
+    "Id": "c10cc927-4b75-4766-9b7c-b2e9afaecbb9",
+    "Name": "Fly-62",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.4417489143883162,
+    "Id": "b1cf5bd5-7648-4d6d-b1c2-a87df8add1d6",
+    "Name": "Fly-70",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.904147080924907,
+    "Id": "6179be43-c099-41bf-ae1d-80e9a83ee81a",
+    "Name": "Fly-32",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "93ae7abb-894f-4d94-994b-c2b09b276453",
+    "Name": "Spider-93",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.599091305244182,
+    "Id": "f4ad1790-5b43-494b-86ca-c1c337d9c742",
+    "Name": "Fly-88",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.2881598199557995,
+    "Id": "1dc787e2-56d0-4698-9c8a-123e05f987d9",
+    "Name": "Fly-63",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.552801558099147,
+    "Id": "45a7431f-012a-4481-ba12-ed26cbf39a10",
+    "Name": "Fly-40",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.725726116852009,
+    "Id": "3da89602-f59a-4116-9897-b35eb62731c1",
+    "Name": "Fly-7",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.41135864300506,
+    "Id": "3c4a2061-56c2-458f-92ad-b07c3df5bbba",
+    "Name": "Fly-2",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "5991e7aa-da73-4ad4-974a-2413fb719212",
+    "Name": "Spider-39",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "61424895-f71c-4a81-a034-6be3db37d710",
+    "Name": "Spider-38",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "627d5cf0-6ebf-4096-8b52-13d13399fcac",
+    "Name": "Spider-62",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "65b7b3b2-9256-43eb-a966-ecbf62de76d2",
+    "Name": "Spider-78",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "15395ac5-381a-4c25-9c88-38115206bbca",
+    "Name": "Spider-67",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "48fd56a1-e4b7-4e6e-ad8b-dc5e01bdb6cc",
+    "Name": "Spider-3",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d25578fb-d8ee-4f35-9759-12abcc1495f3",
+    "Name": "Spider-73",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "366ae7bd-65a2-4fa8-b654-5e543817a4b2",
+    "Name": "Spider-11",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.7633292935439582,
+    "Id": "dc397b00-466c-4f0d-b8b4-b6eae7254131",
+    "Name": "Fly-42",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "2d0f56d5-dc4d-44d6-854f-bf43926ed077",
+    "Name": "Spider-7",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.272152735722625,
+    "Id": "e1332773-d1ca-442e-a61b-a3d11ca92110",
+    "Name": "Fly-1",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.2871668287801534,
+    "Id": "1436ce59-aedf-42ec-bce4-0d2862f419a2",
+    "Name": "Fly-29",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "b5213cec-66d7-427c-834c-e9434dfb37da",
+    "Name": "Spider-31",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "918d3de9-4f8d-46da-8a32-9c8bb6609994",
+    "Name": "Spider-24",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.133589483152926,
+    "Id": "8ee12f60-8cb1-4bb1-8a11-84edbe18e15b",
+    "Name": "Fly-67",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.9932291159888951,
+    "Id": "59c6239f-7dd1-45c1-bd9d-27b5e4a184ac",
+    "Name": "Fly-15",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.852435895346931,
+    "Id": "31d78efe-4806-4eff-bcbb-264a96d2226f",
+    "Name": "Fly-76",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.0167190388882696,
+    "Id": "6b79b23d-bf5f-4485-b2e2-e314d991b05a",
+    "Name": "Fly-42",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.23570300838386515,
+    "Id": "b77ba97b-f6d7-4fcb-861a-75112cb446d7",
+    "Name": "Fly-6",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.726022950673969,
+    "Id": "0338d270-e25d-4897-970d-abb7c13f6c7e",
+    "Name": "Fly-37",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.191151528666456,
+    "Id": "d7184326-e76a-4b41-8276-d3e669970246",
+    "Name": "Fly-42",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "e25c3d4b-e5f4-4849-9ebc-8c88c74b153c",
+    "Name": "Spider-58",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.889744404074248,
+    "Id": "9735a3cf-4027-488e-883c-c7f57dd57975",
+    "Name": "Fly-63",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "99b1d633-0bb1-4b14-9fd6-2555241b98ad",
+    "Name": "Spider-54",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "5074d7aa-6c5a-4d3f-9b5f-e0dd530c3063",
+    "Name": "Spider-29",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.9349093167929046,
+    "Id": "a4b2e3dc-60d3-45c1-94ab-fff1f13582eb",
+    "Name": "Fly-36",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "502de540-52f5-48e3-9d5a-0a19fd8bed49",
+    "Name": "Spider-29",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "4ca4a690-bf96-4ba0-b415-e700466c0770",
+    "Name": "Spider-92",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "408e85bd-ea16-4cca-b918-2af88bda213f",
+    "Name": "Spider-1",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.8481347628038165,
+    "Id": "a07f2c41-f3c7-4bf2-8951-19f4febba8f1",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "661ff6e4-586e-49c6-a56d-42fb6850b794",
+    "Name": "Spider-9",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "6137ea95-4751-4f69-a3e0-c49fa6d7f01f",
+    "Name": "Spider-70",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "2c9ed13f-fac8-4556-9f64-1036faa532f8",
+    "Name": "Spider-74",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "e155a44a-69a8-4cc0-943d-c0e7a7bd6162",
+    "Name": "Spider-21",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "fa38c3dd-abf9-442e-8a3a-c0e35b963b87",
+    "Name": "Spider-25",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.3542003150416773,
+    "Id": "ac5ef7d1-52b2-4a3e-9547-13b8b9702551",
+    "Name": "Fly-92",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "72f21f85-81ce-43e3-bc2a-2fadaa563eb2",
+    "Name": "Spider-69",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.6496920700508335,
+    "Id": "9cb4ca48-8bc1-420b-95e6-a63b083e4290",
+    "Name": "Fly-24",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "e78283fa-ff81-436f-afde-3895b1414126",
+    "Name": "Spider-60",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "18e00b84-b5b4-44a4-815c-eaab909baa99",
+    "Name": "Spider-79",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9104880729199065,
+    "Id": "817bbc93-7037-493b-b526-2fcda1098335",
+    "Name": "Fly-33",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "8a966d97-e200-4379-aaa7-41b7815814ea",
+    "Name": "Spider-20",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.145020037170665,
+    "Id": "52d02553-308c-4641-8427-f08dc1ca953b",
+    "Name": "Fly-84",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "e3d46981-4aeb-4c90-9e60-4f5846fa3d91",
+    "Name": "Spider-35",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "aef10a12-dbeb-48f2-b5e9-68d91bd89a90",
+    "Name": "Spider-51",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "fc120de0-1abe-42ab-8468-18cfdd8f7cf9",
+    "Name": "Spider-36",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.973189205598053,
+    "Id": "2844c469-e879-4767-b1ee-32c969d23ac6",
+    "Name": "Fly-40",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.35964651358313726,
+    "Id": "c4e7ff46-6696-4603-af39-e89615a1be08",
+    "Name": "Fly-42",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "7ff8c4b0-9e8a-49b7-96ce-8f05c12619eb",
+    "Name": "Spider-10",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.1988271660826637,
+    "Id": "97649701-8209-4ef0-a8aa-54fe6b47cca4",
+    "Name": "Fly-15",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.058200235595824,
+    "Id": "42c6ab52-125d-4372-a5ad-85152030468e",
+    "Name": "Fly-94",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "e47a3375-7078-42c5-b40c-ab13dd50f2b0",
+    "Name": "Spider-34",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "58346476-1131-4f05-aa22-019f74b90a7b",
+    "Name": "Spider-83",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.415720477179199,
+    "Id": "da932555-738b-4ae3-9094-9a35640a0456",
+    "Name": "Fly-92",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "15f52156-77b7-479f-8d93-0c864812dd9b",
+    "Name": "Spider-1",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "4051035e-6c4c-4e7d-9491-3c2ebefe1d0c",
+    "Name": "Spider-27",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.0369285616517936,
+    "Id": "959e7e73-d710-43d4-9592-0962ede40d6c",
+    "Name": "Fly-60",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "70f60e15-7eeb-4521-8487-d1f3563c61f0",
+    "Name": "Spider-71",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "e0dd39bc-77ae-4c09-adf6-96f3c45fd926",
+    "Name": "Spider-74",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "ef3e1c6d-2a31-495c-9171-c0f46c9c8c10",
+    "Name": "Spider-77",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "6f0fa3c5-2cf7-47fe-986b-46751aa20715",
+    "Name": "Spider-44",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "4971fc5f-bbf3-4606-9375-257389c2fbf7",
+    "Name": "Spider-94",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "97f95416-dd60-45f3-8a56-cbf174abe966",
+    "Name": "Spider-25",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "4bacd2f2-e45b-4de0-b6b5-3e53bfbc0ccf",
+    "Name": "Spider-93",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.998584847114838,
+    "Id": "afd08e65-6109-4abb-b783-4fd8112cc03d",
+    "Name": "Fly-40",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.9324250269755225,
+    "Id": "d307ff07-0c57-4aea-af7d-97baba89f9b1",
+    "Name": "Fly-92",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.4448986895928333,
+    "Id": "b4444b3e-2e26-41e3-b376-d419161de481",
+    "Name": "Fly-9",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "a890aa12-da44-44dc-b6f3-f161e629d690",
+    "Name": "Spider-14",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "8c0f4cb4-2fba-4ee7-991c-a1d700fac211",
+    "Name": "Spider-65",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.1560328429523774,
+    "Id": "2fdf2c6a-a624-4841-9b43-326dbf2263d4",
+    "Name": "Fly-32",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "ff797ea1-ba46-4eda-b100-5a0b6723d423",
+    "Name": "Spider-24",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.698073209676156,
+    "Id": "9ab56479-61c8-48f7-b4a6-1f70fd5f7a54",
+    "Name": "Fly-51",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.2966941631432105,
+    "Id": "59b4014a-101a-49aa-ae4f-61fa0a2b412f",
+    "Name": "Fly-53",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.49963306902800764,
+    "Id": "aeb3e420-e34d-4488-8f44-a8824a436124",
+    "Name": "Fly-26",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "9300108a-a4e8-46c6-b8ec-b351f2409d12",
+    "Name": "Spider-81",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "adfbb570-4960-498f-bdb3-2782a173f63e",
+    "Name": "Spider-3",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.531431698067848,
+    "Id": "4333c4bb-b2bc-4057-938f-639aa9562d71",
+    "Name": "Fly-80",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "785392f2-10e7-4c97-9c12-c1105a7fe904",
+    "Name": "Spider-79",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.37233852294063,
+    "Id": "783ad14c-be56-474a-a83f-917c9724e32b",
+    "Name": "Fly-50",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d6685004-91fc-440d-88a1-feed5a60bcd6",
+    "Name": "Spider-50",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.420264579548424,
+    "Id": "5f942cf4-d502-4f26-b8e4-d9ff57993760",
+    "Name": "Fly-98",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.256565264581368,
+    "Id": "f3617ba4-fb75-4933-91e8-310e6ef5f65a",
+    "Name": "Fly-13",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.8468790307478,
+    "Id": "58587c3f-fbd5-4108-aeb3-56acfb35c17b",
+    "Name": "Fly-97",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.4999470426516264,
+    "Id": "e8c8eea8-a774-434e-98fb-36a30fe4f367",
+    "Name": "Fly-45",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.926616914974576,
+    "Id": "ca4a881a-6a84-4668-b58a-9639998a75e6",
+    "Name": "Fly-6",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "6622a118-b14d-4efd-9872-7bbbc71f5a04",
+    "Name": "Spider-26",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "9cdf1eff-c5bc-47cf-b105-f6a21a109499",
+    "Name": "Spider-5",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "85509953-3f55-4487-b29b-ff6a6db13d18",
+    "Name": "Spider-7",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.463007678107032,
+    "Id": "dc3f401d-e78a-4589-9773-499b968ea000",
+    "Name": "Fly-1",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.734782008114158,
+    "Id": "6ed8a9e0-18a9-4e43-9bac-794f0a5db90d",
+    "Name": "Fly-54",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.48737028420174,
+    "Id": "dfb5af9c-b308-437a-bc62-42d0ac204d39",
+    "Name": "Fly-85",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "29b3f560-03d6-4ccf-afed-7c108f9cb678",
+    "Name": "Spider-50",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "750dc3ef-b0f9-4fda-b6ee-19d59808d3b4",
+    "Name": "Spider-56",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "d2432352-7a75-4071-8884-53c9df5097f7",
+    "Name": "Spider-3",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.501740709781334,
+    "Id": "0504c1ed-d5af-4cbc-8358-f66c94189695",
+    "Name": "Fly-26",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.744605407286326,
+    "Id": "0b2f2e77-e399-41e8-8985-eb8b99c05cf6",
+    "Name": "Fly-15",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.015268044176443563,
+    "Id": "b0bff582-4d2f-4366-9f7b-a6a298e0f19c",
+    "Name": "Fly-95",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "19f95a31-ed14-4a6a-87f6-c725f6927aca",
+    "Name": "Spider-94",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.51310908941271,
+    "Id": "809290c1-a843-4573-879e-7fa64252d527",
+    "Name": "Fly-26",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "a79ce14c-314a-492b-ac66-8e868b1b1feb",
+    "Name": "Spider-26",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "3756d7bb-6191-453b-be1c-fc1f633376cc",
+    "Name": "Spider-79",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.77251666576402,
+    "Id": "53238e69-8d0d-4d93-bc32-e4d74f855c14",
+    "Name": "Fly-89",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.8498700408026116,
+    "Id": "b6b968b4-a403-4af5-9694-4a954096f3e4",
+    "Name": "Fly-85",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.99500838864372,
+    "Id": "8d6ed96b-35bb-45d9-b5e5-0af036ca6560",
+    "Name": "Fly-94",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "37a295f1-efe2-4951-aaa9-2f8e686a0de4",
+    "Name": "Spider-98",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "fa6454e3-214e-46f4-becf-29d12f19ef62",
+    "Name": "Spider-92",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "e9ab2a1d-6ad9-473c-88ac-ad8a9500ba34",
+    "Name": "Spider-59",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.743310219515144,
+    "Id": "a4f9a9b0-aafe-45a9-bf14-8f0c518419d9",
+    "Name": "Fly-39",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "1586ea9c-d1ee-49b3-85f0-2aac04082103",
+    "Name": "Spider-94",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.7744799137280238,
+    "Id": "38f27518-0f7d-46a9-9d76-841b2878899a",
+    "Name": "Fly-81",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "a28725da-fd66-45b3-b02e-13ac10fa28d3",
+    "Name": "Spider-36",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "b511a05c-31ad-4a52-a097-af3be74fb784",
+    "Name": "Spider-47",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "9d9ea706-d2a3-436a-9829-7b1e6c4d62de",
+    "Name": "Spider-28",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "1cb60d43-b448-4c5c-9da1-55873ba42137",
+    "Name": "Spider-85",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.1257148947453413,
+    "Id": "c9b8b38a-3b45-490c-9609-96905e31bc52",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.238573067341043,
+    "Id": "2da0a32e-878e-40f9-8fea-92a3e0582677",
+    "Name": "Fly-59",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.583824354322533,
+    "Id": "de170eda-d076-4185-8e3d-4d9681f1bfa6",
+    "Name": "Fly-10",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.8127991253110647,
+    "Id": "ac9ffbc7-fbd1-4ccc-a0b2-3a0518972faa",
+    "Name": "Fly-70",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "994f69aa-5b14-4421-97dd-0051928a06de",
+    "Name": "Spider-93",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.2479431673830925,
+    "Id": "e1f4d967-49fb-4398-a5b7-f7c72a1c7654",
+    "Name": "Fly-34",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.5882684068897452,
+    "Id": "23340bbc-f08c-4b5b-b578-6441b148da34",
+    "Name": "Fly-9",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d37e69bd-751a-49d5-a8e8-2858afedfd95",
+    "Name": "Spider-28",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "1ce58135-18aa-483e-bd4b-52892214800a",
+    "Name": "Spider-98",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.8004728366118385,
+    "Id": "28d958c6-ef2c-4ed4-b20e-fd44ee82d856",
+    "Name": "Fly-87",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "b289e8a7-9f92-45e6-83b2-8cd63de58d16",
+    "Name": "Spider-89",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.4191206791075768,
+    "Id": "9cfcce30-fbd0-47e5-afb7-cf5bfe20cb9d",
+    "Name": "Fly-62",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.8303697090159146,
+    "Id": "16f53a10-58f9-4a72-b190-101befc8c7c5",
+    "Name": "Fly-66",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.979159254001901,
+    "Id": "ef3d6e59-1c6a-4c7d-ac95-43268097f3f0",
+    "Name": "Fly-77",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "cfe296c4-5d7b-4c4e-b2ff-c16acb8a9900",
+    "Name": "Spider-50",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "74563293-1a46-4d32-b497-0b22838c18c5",
+    "Name": "Spider-11",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.359786071131814,
+    "Id": "1d39d58a-3949-4b5a-bcad-a9855814186e",
+    "Name": "Fly-99",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "da61ce2b-e4bc-4b90-ae24-22dbaa188623",
+    "Name": "Spider-89",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.4646650701433386,
+    "Id": "836b4f40-b800-4fbf-b256-f39ab342b409",
+    "Name": "Fly-25",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.20468334487395767,
+    "Id": "b3c03524-5f27-46c3-8c08-feba30e00fc5",
+    "Name": "Fly-12",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "3f199e4d-ddb6-4fb5-8d1f-ee18771758d1",
+    "Name": "Spider-84",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.8009337444905993,
+    "Id": "11d0a1e1-c242-4de0-951c-fc0fc95ff669",
+    "Name": "Fly-50",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "07a14bf0-5d85-4e82-a33c-6e7cd10be22a",
+    "Name": "Spider-93",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.5726032595299424,
+    "Id": "4b10a109-b12d-4bb2-b858-d16ca77ab522",
+    "Name": "Fly-36",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "39d63fc3-e79e-4204-9d05-a851bb6802a3",
+    "Name": "Spider-3",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.142737559890717,
+    "Id": "d267398f-ffc9-4818-9f31-a94e59ff10a6",
+    "Name": "Fly-57",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "1749f979-2a1e-490c-ad85-cb1ab78b4b71",
+    "Name": "Spider-32",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.42571328838959865,
+    "Id": "2b0d0421-f926-4e75-96ef-940e82a6da66",
+    "Name": "Fly-51",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "42af30d0-856d-4590-ab60-d5afa4a5b159",
+    "Name": "Spider-80",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.6458236406631244,
+    "Id": "bf6a7a24-6a1f-465a-beb1-95a9f5b5bb15",
+    "Name": "Fly-71",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "2ae4714e-03fb-4af1-8502-fa4ff40542e0",
+    "Name": "Spider-59",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.612428519754982,
+    "Id": "fec93e2f-3944-4d5c-bcca-c087a1f84b5b",
+    "Name": "Fly-46",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.400064466765517,
+    "Id": "60a4209d-8073-4093-ba84-5f964acbcfdd",
+    "Name": "Fly-60",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.04983666578531,
+    "Id": "0c6f66f8-f2e8-48f7-a495-58c548899e7b",
+    "Name": "Fly-62",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d0a67063-58ff-4776-9e01-6a11dd4609f4",
+    "Name": "Spider-18",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.6793436521404264,
+    "Id": "7593c75e-ea4a-423c-8177-2c2409f6fc6a",
+    "Name": "Fly-41",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "5dc182a7-0e18-437f-ab69-ad44be036b1f",
+    "Name": "Spider-44",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.1346081675458275,
+    "Id": "f47f3ce3-7c6c-477a-858f-f235f38966c9",
+    "Name": "Fly-45",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.861407982296572,
+    "Id": "88d44d01-6142-49f4-ba42-b4bc09e68f93",
+    "Name": "Fly-23",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.0232163353767993,
+    "Id": "28530eef-00d0-4214-8c43-54536da5becc",
+    "Name": "Fly-72",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "7ff62df5-18e4-4ba9-b59b-78981a370234",
+    "Name": "Spider-91",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "36d9aa4f-55bc-43aa-b39f-a8cb90527d7b",
+    "Name": "Spider-52",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "aa8a6d8c-ecbd-43a8-946a-13d23177efdf",
+    "Name": "Spider-88",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "09df68ef-9035-4865-b5e5-600e18da44f3",
+    "Name": "Spider-30",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.6195100341077646,
+    "Id": "9810e17f-d665-49c0-9440-0b3004c33d1b",
+    "Name": "Fly-66",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.568816458305068,
+    "Id": "0cf20083-4985-429e-9122-216e2226af23",
+    "Name": "Fly-51",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "86cc9644-de27-4462-b25e-5695e24c04f2",
+    "Name": "Spider-29",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.94341536184902,
+    "Id": "afed13ca-7be1-4fe1-ac40-85a1e5d23853",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.784690455724232,
+    "Id": "e2d64e0f-cdbb-45b6-b969-e89b1270f4f7",
+    "Name": "Fly-28",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.1513195537288774,
+    "Id": "51579fa2-87ee-4ece-84cb-4981b142dd81",
+    "Name": "Fly-79",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.2433935334646513,
+    "Id": "98958bd7-0355-46e2-a328-5b61b118a243",
+    "Name": "Fly-57",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.9095572891623738,
+    "Id": "8d9f330f-e458-4e62-af18-58b14e55b091",
+    "Name": "Fly-26",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.232507572806587,
+    "Id": "066e4c23-c11a-4339-b492-8c219991cd71",
+    "Name": "Fly-56",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "809ada12-1e8b-4b5c-b083-a762c725aee0",
+    "Name": "Spider-2",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "7ca4e869-a511-481c-a37b-19a13d5769f2",
+    "Name": "Spider-3",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "23775bc2-1bd1-4fa6-ae74-c55293d72a42",
+    "Name": "Spider-54",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.268590513652267,
+    "Id": "74606287-00e3-4a37-ae45-6e8e4b429fe3",
+    "Name": "Fly-88",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.468504594444736,
+    "Id": "0fc23f42-ee8f-4800-90c8-c93d5e63ea87",
+    "Name": "Fly-10",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.5976545753984741,
+    "Id": "de997119-402a-47a0-aee0-35280ffe3382",
+    "Name": "Fly-58",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.660743027306525,
+    "Id": "3c43d1df-f83b-4316-968d-fd6c29b3fa5a",
+    "Name": "Fly-23",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.028805044514548,
+    "Id": "a6307a92-f799-43cd-97c7-341a5a0bba70",
+    "Name": "Fly-57",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "7a62af81-e53c-44e3-9270-b85fa510d092",
+    "Name": "Spider-79",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.1222468169847,
+    "Id": "e85d8afb-5989-441c-b425-907f471a0ada",
+    "Name": "Fly-24",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.2013183724754346,
+    "Id": "2b1977d2-c797-4016-b282-6007df3dfffa",
+    "Name": "Fly-95",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "40dd5ef0-f2a9-461b-9ad6-7aaf9f1c3884",
+    "Name": "Spider-92",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.3597604691970413,
+    "Id": "65ea3298-a488-4dc4-9000-7d264f0cace1",
+    "Name": "Fly-76",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "01f90956-471d-492a-8374-d58243eb7423",
+    "Name": "Spider-96",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "9a482b78-fc12-40fe-965a-9f770073bef8",
+    "Name": "Spider-28",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "f376644a-6023-4409-a225-144e63c935b3",
+    "Name": "Spider-42",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "839f60e6-292e-433e-8870-79f0a31b5896",
+    "Name": "Spider-86",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.2516508357783898,
+    "Id": "2464871a-aaef-4f7f-89a0-151a6b24a60d",
+    "Name": "Fly-76",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.9307207461857564,
+    "Id": "d5e29771-9d59-43d9-95b7-40c7095d8d37",
+    "Name": "Fly-24",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "25e73ae3-55fc-4627-8d66-0686325aac1b",
+    "Name": "Spider-75",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.8767918115209111,
+    "Id": "74296e6a-12fa-46ad-b961-78fe15c60d62",
+    "Name": "Fly-95",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.9949679707347685,
+    "Id": "adb45dc5-4d7d-4af0-bcb3-c5dac043a613",
+    "Name": "Fly-12",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "b54f8853-483d-4e08-b02a-d44b3788d402",
+    "Name": "Spider-70",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "ebefb3d2-1f41-4642-83a5-4b614e6efcfc",
+    "Name": "Spider-20",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "bf167819-028a-42c1-8b9a-daabb05de429",
+    "Name": "Spider-65",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.8379911406768975,
+    "Id": "ff78244e-710a-43e7-b41d-82654b96a0e6",
+    "Name": "Fly-28",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "359c2e3a-637e-4989-87cc-249e3c7ce65e",
+    "Name": "Spider-60",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "8ba28ea3-784d-4649-8a07-cb3f3fc11656",
+    "Name": "Spider-97",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "0be484fb-1c03-4827-a765-0e35dd69dcf2",
+    "Name": "Spider-40",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.458673423788909,
+    "Id": "3747003c-4d44-4d23-a51c-fbb578e1fda8",
+    "Name": "Fly-40",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.190637407277216,
+    "Id": "715729d7-e59e-4c7b-991c-ae8c0c3066ba",
+    "Name": "Fly-56",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "48ddb3cc-d6a0-4854-9201-27566c0b6c8d",
+    "Name": "Spider-85",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "38f9d01f-5b8f-457e-ace4-8593ed47695c",
+    "Name": "Spider-79",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.9397828902417713,
+    "Id": "e45e07f7-24d7-4388-8777-9d999219e2f2",
+    "Name": "Fly-39",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "85d0c457-ac76-47e8-81cb-db9cbe468d2f",
+    "Name": "Spider-33",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "af1c94d7-a62b-49b0-b4b2-ae4a69485824",
+    "Name": "Spider-57",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d81d9ee8-9527-4346-84e6-3fd3189f6b0b",
+    "Name": "Spider-31",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.4302174562084424,
+    "Id": "e97e3b82-0e1c-492a-afaa-a68da7c21ab6",
+    "Name": "Fly-90",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "7d702084-c6ff-4153-8e2e-48d167cbeb30",
+    "Name": "Spider-93",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d0a286ab-e0dd-4878-8eee-b1869df14106",
+    "Name": "Spider-56",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9659471056614666,
+    "Id": "814494e4-4191-4e2a-8917-0c125c6b7ff6",
+    "Name": "Fly-54",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.17901829521690837,
+    "Id": "c013965f-fe62-4e18-a497-71dc69f21ea6",
+    "Name": "Fly-87",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.065995952442275,
+    "Id": "324f837b-10a7-44a4-bb68-46a6f38c5367",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "563c968d-fdb7-4af2-8ec0-f462d4fe4979",
+    "Name": "Spider-21",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "bb01e9dd-9ae4-4975-8dd5-1c3cf9accb49",
+    "Name": "Spider-7",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.4550901170584498,
+    "Id": "3a704024-2144-43c0-89e6-a2f2b708d4e3",
+    "Name": "Fly-86",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "ce5ad8ef-7349-403b-b4b6-3188d7fe6ed9",
+    "Name": "Spider-57",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.081854101373966,
+    "Id": "d6ae7dae-034b-4298-bdb5-3188dca3a864",
+    "Name": "Fly-24",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "98057610-df7f-49ee-a51b-80185c3bfe29",
+    "Name": "Spider-22",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "a2188988-76ec-4222-b614-598c3776a71e",
+    "Name": "Spider-3",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "128810de-c878-45e1-8234-3acdce0b9e79",
+    "Name": "Spider-56",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "c34dd473-55fd-48bb-81e3-239975a3f3b2",
+    "Name": "Spider-43",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "fde3a099-e7ec-4dcd-9e92-41c9f42c3681",
+    "Name": "Spider-56",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "e45dfc84-1369-4792-8e6e-54a00403a641",
+    "Name": "Spider-94",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.7018341697588495,
+    "Id": "62878efa-b68e-4758-891c-6dc2cb979017",
+    "Name": "Fly-42",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "c518a72f-3e39-4cb9-ad1e-1c4541af1dd0",
+    "Name": "Spider-10",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.6843308220950317,
+    "Id": "be8ee5ac-ae8e-4d22-bcef-0d24456476fc",
+    "Name": "Fly-5",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "1135f26e-0801-4a35-91ea-e839b0ab0231",
+    "Name": "Spider-12",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "1ecb6490-3bdc-4b65-97d6-387fc99699bc",
+    "Name": "Spider-72",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "71bbdfc6-faf4-4619-b920-2cf7f18749b6",
+    "Name": "Spider-1",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "bc86f990-8202-4d40-8890-8d2d794bc2d7",
+    "Name": "Spider-43",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "c20db94f-7307-42b1-a804-0dffbef8d7aa",
+    "Name": "Spider-33",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "1a31c4dc-5019-441d-a801-0fa550387fec",
+    "Name": "Spider-27",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.1151263577125752,
+    "Id": "3fd8e7e8-cc90-48ea-93bc-e8a08fbc6679",
+    "Name": "Fly-78",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "beacd438-d4cd-4d40-9695-76df58aad57a",
+    "Name": "Spider-44",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "b18a6191-8c60-4ef3-a7ed-ac2ac7e06840",
+    "Name": "Spider-81",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.265998804981042,
+    "Id": "8dcff4c3-3130-4807-9a43-ddd129eb452a",
+    "Name": "Fly-21",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.940796095147925,
+    "Id": "aee0b93b-0049-41fc-a9dc-0dd1d6c18275",
+    "Name": "Fly-16",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.271115613303338,
+    "Id": "16a50404-61df-4039-95c7-220cc70e9e29",
+    "Name": "Fly-75",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.4376738141868053,
+    "Id": "9e28c643-07b9-4730-a59b-ea89bca4dd90",
+    "Name": "Fly-94",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.6057332007530303,
+    "Id": "ad347547-fe6a-4f71-a6e9-3134bce4613d",
+    "Name": "Fly-53",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "43f4e673-d042-48ad-bf81-e7dd6e4e4954",
+    "Name": "Spider-20",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d6a32e0b-074a-4c42-ac59-6e0c1f35144f",
+    "Name": "Spider-42",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.1916356396052785,
+    "Id": "bb6c383a-062a-4c98-be93-c47abd4fbd64",
+    "Name": "Fly-77",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.0982632937894046,
+    "Id": "bb15474b-1368-46bc-a7b4-b0630f31e135",
+    "Name": "Fly-55",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "f78a3e0d-5020-4958-8482-d377c54584f9",
+    "Name": "Spider-87",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "86700b0b-f617-40cd-9d95-1b271685c3d2",
+    "Name": "Spider-66",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.1252440707266054,
+    "Id": "5d9d7685-5cae-41b2-93d8-d49cf5a613a5",
+    "Name": "Fly-20",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "63fdb13f-3245-48d1-afce-6aa9afc2dd28",
+    "Name": "Spider-38",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "ef3376c5-31da-40ca-830f-5b898dc7a2a3",
+    "Name": "Spider-19",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.2453458266678843,
+    "Id": "ae951cc2-715f-49dd-875f-68fac3fe81fc",
+    "Name": "Fly-88",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "273e7b65-36ec-46d4-be34-464f08024b31",
+    "Name": "Spider-41",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.583583524210472,
+    "Id": "361354d3-93b0-4107-b738-16eea36e1c5b",
+    "Name": "Fly-10",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "f726cc22-d315-4e73-a19f-e9eb37fc420b",
+    "Name": "Spider-18",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "cb799e90-c83a-4015-ae30-5c1b97ae6d2e",
+    "Name": "Spider-53",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "1c2ca9b7-e695-48f6-a24a-e8b5d65c83e3",
+    "Name": "Spider-7",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "437149ba-1417-4243-9137-08f77204169b",
+    "Name": "Spider-24",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.569529939958057,
+    "Id": "a78b2078-c9d4-4d86-879f-6ab0ff07453f",
+    "Name": "Fly-97",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.732008850795354,
+    "Id": "0b1bf1bf-9cd5-49b5-9c81-d612212a88de",
+    "Name": "Fly-93",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "5e3d6b49-b8ec-47af-aff2-8dbf177e174f",
+    "Name": "Spider-92",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "76f8204f-b252-464c-9e71-e19e4eae5b97",
+    "Name": "Spider-61",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.6879589742558285,
+    "Id": "feb15086-6ded-431f-8fea-f8b0c9e4088f",
+    "Name": "Fly-50",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "ddb86072-ef58-4d01-93b5-e21544e4ef88",
+    "Name": "Spider-1",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.1482467550481834,
+    "Id": "967f73e4-a922-4246-97b9-69678e054d95",
+    "Name": "Fly-1",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "e32b2ccb-49d4-46bc-9ab7-a79bee9d2fdd",
+    "Name": "Spider-60",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.861402526760033,
+    "Id": "6b22aa64-53b8-4281-bc58-9f9d5a50d849",
+    "Name": "Fly-35",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "98244928-323b-432e-b9cb-6859118bdde9",
+    "Name": "Spider-53",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.5280186375486497,
+    "Id": "dd9c2227-6b5f-4892-8375-8daf91bfcd4f",
+    "Name": "Fly-46",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.871144576978377,
+    "Id": "34f676b2-8c3a-498e-8e2a-60fe2f56a985",
+    "Name": "Fly-20",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9930920282944222,
+    "Id": "3c5953a2-3b98-414c-803c-4478c5dec810",
+    "Name": "Fly-74",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "1747f605-a3ff-4011-8f83-3ff25772dd8d",
+    "Name": "Spider-88",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.7394898623836905,
+    "Id": "ae338cbe-415d-4eb8-bc27-7efcc178e211",
+    "Name": "Fly-76",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "828bcdf8-d377-4efc-8d37-37e20bf3fce1",
+    "Name": "Spider-82",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.652817812937124,
+    "Id": "2b70518d-83bc-4b8c-adb3-afce55b5aec9",
+    "Name": "Fly-11",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.2939132559213524,
+    "Id": "9a073829-9c01-46fe-a1eb-d76c4f4068be",
+    "Name": "Fly-19",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.003984585375170213,
+    "Id": "63f66e97-09ce-42fd-8280-6f5902d8a35c",
+    "Name": "Fly-59",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "30adcc32-5528-4a6f-b3ca-ffc3953ebb57",
+    "Name": "Spider-90",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "0fae7fd8-c907-4c82-afbd-a64e73ea2675",
+    "Name": "Spider-16",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.204000560396796,
+    "Id": "ad321c1c-207a-4fa8-ad19-5b21cc42db21",
+    "Name": "Fly-57",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.693435158068007,
+    "Id": "62a0fe72-204d-4071-a202-b7bb1bace0bd",
+    "Name": "Fly-5",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "39bfbfe7-9e7a-4e13-9e52-20988b3bf36c",
+    "Name": "Spider-22",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "2f9ed3c9-d633-4522-ae5f-ddbd1fce9ce5",
+    "Name": "Spider-47",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "86f173af-e249-4802-953f-10b2256077db",
+    "Name": "Spider-56",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.9143796310262114,
+    "Id": "d33cd808-52ee-45f2-b141-f3b7b580200a",
+    "Name": "Fly-69",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "4828a58b-7fd0-4987-876c-d6711d02b83a",
+    "Name": "Spider-95",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.541496057636916,
+    "Id": "0a4d1f23-da3f-4ff0-959d-6b33ed247b0a",
+    "Name": "Fly-90",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.214037635542489,
+    "Id": "b2447083-bdc2-4026-839f-1982558cac5f",
+    "Name": "Fly-2",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "4f8570a7-9c89-454c-b5d5-88e8c04dcd49",
+    "Name": "Spider-86",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9823766377383434,
+    "Id": "7334f0e3-db27-4bb0-9eb7-6d3fa915b789",
+    "Name": "Fly-74",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "b757cee6-7b0b-496b-b6c7-f88dc7ecfaef",
+    "Name": "Spider-94",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "176cb86c-9348-49e4-9b58-50db2267b340",
+    "Name": "Spider-33",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.7754038131686064,
+    "Id": "67293e50-a18c-4ac4-b9ee-7b4b8bcaedc5",
+    "Name": "Fly-10",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.745252352009149,
+    "Id": "6c899ad2-50f3-4cff-acbb-bdd7d9337388",
+    "Name": "Fly-77",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.012784201319777089,
+    "Id": "9c4c3987-e7ec-452a-88c3-1ac55ab43ffa",
+    "Name": "Fly-11",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.644360624587422,
+    "Id": "2b0da5fa-9dc1-4ba4-b4ba-aa33056a62a8",
+    "Name": "Fly-49",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.5024251148832395,
+    "Id": "91155baa-cc08-4339-bda2-1470c501c8d1",
+    "Name": "Fly-24",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "dc564e9d-280d-4b42-ada5-e52bcc6180a2",
+    "Name": "Spider-9",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "4d67107c-315e-4918-8df8-55bc3102b93b",
+    "Name": "Spider-31",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.7679393844810132,
+    "Id": "778fa066-f69e-413c-aeb1-2a26c9cc1134",
+    "Name": "Fly-20",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "7f1392f5-5945-46c5-ab25-1468142c6182",
+    "Name": "Spider-61",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "e2a45817-8be5-43c7-bef3-ff64c9277957",
+    "Name": "Spider-59",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "9279b63b-fe96-4099-9ded-23648d76878c",
+    "Name": "Spider-62",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.9640885883306466,
+    "Id": "ef792f37-5e19-44eb-be99-313c5b2ef8c6",
+    "Name": "Fly-20",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.0998961107296994,
+    "Id": "2932f1c8-2c56-4818-b846-41d78a8da8d5",
+    "Name": "Fly-27",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "a2cf612b-ea42-45ae-b077-1aea7c4f0ef3",
+    "Name": "Spider-57",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "3861a485-9ff1-4382-a57a-4e59e3cb117a",
+    "Name": "Spider-64",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.535146946658486,
+    "Id": "715d6a10-380f-4fce-95af-6fc9d259e88d",
+    "Name": "Fly-83",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "e0e05917-fab0-4974-9387-cc520c182143",
+    "Name": "Spider-96",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.813460173349643,
+    "Id": "8410d32a-38bb-4b9d-93d0-b20e71ae5c9e",
+    "Name": "Fly-76",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "1d17816e-3a25-41da-acce-243e183493e9",
+    "Name": "Spider-16",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.4154611682854696,
+    "Id": "0a5be2e6-ef65-4fdf-9b96-759fa0cc4e81",
+    "Name": "Fly-86",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.92530423770977,
+    "Id": "c95ef4f8-02a8-41f0-9858-58c4f0e4144c",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "84386f9f-2d0e-4ce2-9bab-1078d9a85ceb",
+    "Name": "Spider-57",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "c8085859-9dbf-441b-adde-a6ef47fdbd60",
+    "Name": "Spider-44",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.602893706713729,
+    "Id": "448c81ea-e650-4666-b348-04561dcdb14f",
+    "Name": "Fly-71",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.456951898038921,
+    "Id": "ec582d2e-709d-4a77-85fa-948189e67ea5",
+    "Name": "Fly-70",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9989440058786876,
+    "Id": "562782df-2e95-4501-bc5a-2b8a1e8ffef3",
+    "Name": "Fly-25",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.163723305060322,
+    "Id": "92489bb0-bdd5-4f4b-9ad2-cb61dc9b8e86",
+    "Name": "Fly-24",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "a520e178-7cb2-4283-b6c3-feed551ada9f",
+    "Name": "Spider-45",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.2890250782038155,
+    "Id": "d42d5047-b013-4f9d-b26f-21c4d2c42781",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.10101547920215947,
+    "Id": "92481ae2-6fb4-4f1f-b249-74d567372b23",
+    "Name": "Fly-42",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.2795190518396373,
+    "Id": "f5cca504-6a40-4f17-bcee-93be19ae9e84",
+    "Name": "Fly-19",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.388592600205979,
+    "Id": "c5d576ad-e26e-4f02-b1c6-7e7c6a9cbd4f",
+    "Name": "Fly-97",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "1f9b6fb4-a09b-4569-b056-e0cc6c4b1f14",
+    "Name": "Spider-71",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "87ad29aa-446d-47da-8b48-98ee6a650b3f",
+    "Name": "Spider-46",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "3e1c2510-69db-4198-bc55-69c9a9813fee",
+    "Name": "Spider-52",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.2202780047946301,
+    "Id": "e3458f5a-a806-4305-a4c3-977a74ebf397",
+    "Name": "Fly-21",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.3880027196278881,
+    "Id": "6156a454-2c9a-4d03-9cdb-722161d8e17d",
+    "Name": "Fly-26",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.6647182098930084,
+    "Id": "6abf2f41-93d5-4d9f-a11d-bfd82e1a4a5f",
+    "Name": "Fly-3",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "e1d6cb45-e28f-45b3-8471-b54f6249083b",
+    "Name": "Spider-16",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "02d91590-f8c5-4812-880f-670f812384a2",
+    "Name": "Spider-59",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.6066027090298802,
+    "Id": "a65e4d4c-fcd2-4859-805a-7df17810bedc",
+    "Name": "Fly-98",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.207817067470872,
+    "Id": "80b90ddb-5e3d-4615-97b1-08f4fe4c2ebd",
+    "Name": "Fly-28",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "9c02a070-ef95-4d64-8a14-18ae486b5689",
+    "Name": "Spider-33",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "27bebc76-5c38-4784-99c2-b88e8b32c488",
+    "Name": "Spider-56",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.982683460460804,
+    "Id": "3e848dd0-1998-44a7-9517-8a2007ebf839",
+    "Name": "Fly-61",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.8675717374510352,
+    "Id": "d3da7808-0fdc-48a9-a0a1-30a11673d65e",
+    "Name": "Fly-38",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "566889a4-e89e-4755-bea0-3e0cd4778187",
+    "Name": "Spider-76",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.903298424084109,
+    "Id": "d91320f4-5864-4826-8319-b11c2fddbfe7",
+    "Name": "Fly-47",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "11fff776-413a-48ea-91e5-21d84d9840b3",
+    "Name": "Spider-78",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "4a4d64c4-6222-4bd3-a84c-eee27062b7b2",
+    "Name": "Spider-64",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "673fae7b-880e-4cdc-80d1-49fe06841c4e",
+    "Name": "Spider-2",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "87838f4a-8c6d-40d9-a273-093688d80698",
+    "Name": "Spider-22",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.762156975528072,
+    "Id": "1ed30ca6-fa68-4966-b453-16540e628977",
+    "Name": "Fly-63",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "66ab3982-c572-4922-8ec6-d66dcd7ebf94",
+    "Name": "Spider-96",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.18491172770564113,
+    "Id": "e0d13958-27fa-40db-896e-556207af20c9",
+    "Name": "Fly-70",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.8136264627358045,
+    "Id": "12b3db58-9783-43b3-ba88-ae306147a377",
+    "Name": "Fly-30",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "39b44338-6eee-4356-b636-4a03a4e9319c",
+    "Name": "Spider-63",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.082757941935263,
+    "Id": "6cf93ec1-92fc-4fc4-94ff-807fb950dbc7",
+    "Name": "Fly-79",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "7b1127fb-bceb-45d0-8466-b0ed6da7ce16",
+    "Name": "Spider-10",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.102886408909465,
+    "Id": "dd8fa7c8-52e6-455c-9bf4-9050ad0dfdb4",
+    "Name": "Fly-39",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "55bca93d-246a-46b1-908d-ab9d0f905b0b",
+    "Name": "Spider-60",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.277278609444747,
+    "Id": "94fb2e85-a20f-4167-af5b-2b59fa7e94c0",
+    "Name": "Fly-41",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "930dfd37-fdd8-4fa8-b9bb-867521f8eeba",
+    "Name": "Spider-42",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "4ba4de4f-0d2b-4175-b017-e1828f25bc82",
+    "Name": "Spider-65",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "aa754ed1-abfa-4747-a03c-00497437c1c6",
+    "Name": "Spider-90",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.6564063766018733,
+    "Id": "ee1b9eb6-1d33-4f51-bac9-8db758753028",
+    "Name": "Fly-65",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "e9bea04c-c4b4-49b9-965a-58661622a0d1",
+    "Name": "Spider-81",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "ced9cdf9-b940-4d42-ab29-1f4261cb9030",
+    "Name": "Spider-65",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.11671050566539665,
+    "Id": "71903840-c371-4bc8-b79b-04ec73686a1e",
+    "Name": "Fly-86",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "74bd6963-b0df-4d8d-bc44-074951ce8239",
+    "Name": "Spider-30",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "04e5f653-4cbb-4564-9a16-858bdd66b74d",
+    "Name": "Spider-8",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "45d5f8e3-316f-48a0-bc87-d163ad087bf8",
+    "Name": "Spider-11",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.7096693913613383,
+    "Id": "b1f353ff-a209-4a49-8012-f6f5d50e6cf9",
+    "Name": "Fly-28",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "da028116-4026-40c4-817e-fd4bb1f34fba",
+    "Name": "Spider-10",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "43a6142b-2789-450b-8dff-36de3cdcdadb",
+    "Name": "Spider-21",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.610815681345703,
+    "Id": "53285663-29f0-4bfe-a5a1-e422497c4007",
+    "Name": "Fly-25",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.450269997359072,
+    "Id": "dfda1f89-15f3-47d6-9988-fbaa414a2e5a",
+    "Name": "Fly-49",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.2852804993233873,
+    "Id": "292f4a3d-afb4-4bb2-846f-4c6cc539a174",
+    "Name": "Fly-65",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "33808473-777a-419d-9276-6cdcfb1d6522",
+    "Name": "Spider-68",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.2818675234272776,
+    "Id": "59182b83-0eb1-4081-b8a2-581b7a306361",
+    "Name": "Fly-24",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.1039213407380577,
+    "Id": "9033f462-7d25-4d92-8836-47e42a208abc",
+    "Name": "Fly-80",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "5e6a2862-1de8-4464-b8bd-a8229360ed3a",
+    "Name": "Spider-76",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.3406595461668066,
+    "Id": "1d97c519-a651-475c-b77e-fc6cec7a90be",
+    "Name": "Fly-78",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.976387160452776,
+    "Id": "ee93ac1d-5f67-4e30-a05f-db10d08d9199",
+    "Name": "Fly-42",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.784410741891064,
+    "Id": "2af1d601-8d60-439e-85f7-0a7c79c28f28",
+    "Name": "Fly-29",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "a0ae80ae-8b9d-44ae-8097-7094158504b7",
+    "Name": "Spider-16",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "bea63a52-afd0-43cf-a18d-0bad86d8c103",
+    "Name": "Spider-10",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.5393941680176715,
+    "Id": "db5001d1-960b-4b7d-accc-9ea470cbc20e",
+    "Name": "Fly-90",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.017808775060116,
+    "Id": "34e92d56-99f3-4093-8dd9-3f26fb817789",
+    "Name": "Fly-55",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.706605751065616,
+    "Id": "5c49009e-d4ba-4193-983a-ebbb43dced0e",
+    "Name": "Fly-85",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "fd4d2da1-a645-4236-8afd-53063a3b2dd5",
+    "Name": "Spider-49",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.331159778273732,
+    "Id": "17cea6ce-0089-44f7-a27e-9ef010d95ca3",
+    "Name": "Fly-40",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "31da0b47-e081-4122-a0f2-79d98cd887b7",
+    "Name": "Spider-59",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.11951553473644,
+    "Id": "ed6f014d-e87a-4076-9550-72c66324d58d",
+    "Name": "Fly-33",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "6a34b537-8d49-434a-9a7b-c63599729cbf",
+    "Name": "Spider-41",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "318a4650-2108-4cfa-897d-7b963aa23e00",
+    "Name": "Spider-42",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.763040113634942,
+    "Id": "9040cd6d-88a5-479f-8e16-64ccead54e1e",
+    "Name": "Fly-58",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "ff29f302-bfe1-4f07-ae07-202b85fb0bb4",
+    "Name": "Spider-17",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.7977138729378868,
+    "Id": "40435318-2f4e-455e-ab13-4c4ed27e656a",
+    "Name": "Fly-34",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.11145337360382257,
+    "Id": "63525aaa-ca15-4042-8ce6-79fc26a34000",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "c6c1176a-7b40-4dc5-add8-a542e64949ed",
+    "Name": "Spider-3",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.219510694326725,
+    "Id": "d399dd99-3f83-4099-8b92-40a53e941d93",
+    "Name": "Fly-83",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.1124387606641393,
+    "Id": "fa087543-5195-4643-a024-2a06c9919cb6",
+    "Name": "Fly-83",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "59ac3e5f-0c6d-4291-89ff-bb5af106a083",
+    "Name": "Spider-33",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "754788db-cdd2-4ed7-92fb-fcf4b4ae7e77",
+    "Name": "Spider-39",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.2932459911001133,
+    "Id": "c3d8e707-9d3b-45a6-aa06-05ff5fd9ff95",
+    "Name": "Fly-26",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.3493963933979147,
+    "Id": "be7bf4db-a0b0-4da7-bf03-c81c96abca07",
+    "Name": "Fly-27",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "15429d5e-3727-452e-a2ca-46bb37b460e7",
+    "Name": "Spider-74",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "a25a60ce-0b65-4418-9615-74b0c4854427",
+    "Name": "Spider-27",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "022303e3-7e80-406a-9053-bb359aeed066",
+    "Name": "Spider-99",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.1236016670799556,
+    "Id": "be7de494-cc19-4745-b103-debfc1f1bef7",
+    "Name": "Fly-92",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.6316344119613126,
+    "Id": "c83562ba-cf87-462e-b2dd-566ca681919e",
+    "Name": "Fly-7",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.369728420031766,
+    "Id": "2f4eadb0-0713-44ee-93e2-af4178dfb54c",
+    "Name": "Fly-16",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "018afad1-22d8-4380-99d3-c75424060ad9",
+    "Name": "Spider-71",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "36993d6b-c467-4f09-b02f-38b5c6cee00e",
+    "Name": "Spider-37",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.6797649065301553,
+    "Id": "5fd6ddf6-61da-482f-816e-a03575b68b80",
+    "Name": "Fly-56",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "8c2f7741-d94b-48f0-88e3-5da355d97e6b",
+    "Name": "Spider-23",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "b49ec2bf-acd5-4acc-80be-38ff918161b0",
+    "Name": "Spider-55",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.071365072479044,
+    "Id": "490e480d-6541-4b60-9c9f-7589c1fab962",
+    "Name": "Fly-60",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "4b71ea42-40f9-4de7-a470-9fea29fe7b01",
+    "Name": "Spider-39",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d2a1ea09-366c-4685-980b-754536cb59db",
+    "Name": "Spider-84",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "9abd6c65-a2fe-4337-b8b6-8ddefa7df71a",
+    "Name": "Spider-75",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.863245132875523,
+    "Id": "490410bb-f752-4a7f-9abb-7bf55bab098e",
+    "Name": "Fly-58",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "7488beb5-c64e-43b8-aa07-752ba6f34252",
+    "Name": "Spider-48",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.6616015733962144,
+    "Id": "973a415a-c26e-401c-aedc-ab2f4dc5ae3d",
+    "Name": "Fly-44",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.7951985402771022,
+    "Id": "7885e3f4-6529-418b-be05-a1eef4edd0ec",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.649385632078819,
+    "Id": "f46c2290-2a5a-442c-9ee2-e71c1147123f",
+    "Name": "Fly-36",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "8ff340f4-aa97-417d-bda3-cd80c31487bf",
+    "Name": "Spider-8",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.535785849195679,
+    "Id": "d7f3f736-e401-487b-b2f6-0787f21231b4",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.088929952118156,
+    "Id": "f131c609-6b5e-47af-83b3-4a94bce8f983",
+    "Name": "Fly-80",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.5559034915713745,
+    "Id": "8a3ed693-ade0-4897-9db1-fb71d25bc24a",
+    "Name": "Fly-95",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.843340384102069,
+    "Id": "58d8e4b6-cc0e-4618-a0d9-ce12d46d6cd8",
+    "Name": "Fly-89",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "a4ba1e40-8a70-4655-9e21-a55041b2b598",
+    "Name": "Spider-82",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.8145786021731234,
+    "Id": "96f0166c-bb36-42ea-a7af-eb38bbdd9186",
+    "Name": "Fly-46",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "7d21f30d-f910-48c4-8a49-c5c0fc5175cb",
+    "Name": "Spider-18",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.7596162036609133,
+    "Id": "a7ab4ebc-ffc4-4f8d-bab4-3c076c008e56",
+    "Name": "Fly-20",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.256777318379022,
+    "Id": "a924dd15-c723-4b3b-b04f-19abee880d0e",
+    "Name": "Fly-89",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "61399a57-3182-4a5b-9b69-80e1165b07e7",
+    "Name": "Spider-6",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "c92d348a-4ece-48d3-bf17-dcb54b0b997a",
+    "Name": "Spider-58",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "52a9a5a7-ce33-46be-b622-fd8379adba66",
+    "Name": "Spider-47",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.1772561722652974,
+    "Id": "cc7a45a5-892c-4f48-addf-ef5e571fb112",
+    "Name": "Fly-44",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "2ecc6fc6-5852-4831-90eb-d1c4ef0410c3",
+    "Name": "Spider-62",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "89fdf570-991a-4cfc-b55e-54a0443fece0",
+    "Name": "Spider-36",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.5115281398482413,
+    "Id": "7c9ae0e4-42f9-4061-9724-37b42a85419b",
+    "Name": "Fly-81",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "ab820bd6-0c35-40a6-95ac-899cdd9fdf4a",
+    "Name": "Spider-65",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "0c232f75-b2de-4d00-8882-2d8d116455c1",
+    "Name": "Spider-18",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "2e5300b3-776d-48cc-9ff0-d7fac3d35c99",
+    "Name": "Spider-76",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.0521371478605412,
+    "Id": "ab3a928d-0707-4b2f-91e4-0cbf7cecc8fa",
+    "Name": "Fly-50",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "398e1a2b-c5ad-4ee4-b559-c5167350c983",
+    "Name": "Spider-15",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.896821403198679,
+    "Id": "f9d52418-75a4-4953-90db-7e28be259fe2",
+    "Name": "Fly-30",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "2d5550fc-22de-4fe7-8a7a-4943c61b4530",
+    "Name": "Spider-91",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.8152010861350472,
+    "Id": "48b603dc-24ec-4fe1-a31b-40e7771f28fd",
+    "Name": "Fly-96",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "a16ac8dd-9ab0-47f8-8519-a8df8229648b",
+    "Name": "Spider-82",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.4958949736251933,
+    "Id": "29f2e659-2b95-46ef-9e8c-15d75db8cbe7",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "7bf2fbae-7f25-4f01-84e7-a9d40d9f4744",
+    "Name": "Spider-18",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "2fbf0af2-1b22-40a2-9eea-d48ef99e4f4e",
+    "Name": "Spider-98",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.2180448872719474,
+    "Id": "856c863c-fcae-4d13-9dfd-11b81e40752c",
+    "Name": "Fly-89",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "8704bb5d-0ee2-4b80-934d-f1f76da47cae",
+    "Name": "Spider-72",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "a10a548f-8f00-4dde-b812-b805e6156d98",
+    "Name": "Spider-30",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.2108802283608366,
+    "Id": "6e272c67-9e28-4aa1-87c3-201475b8dc88",
+    "Name": "Fly-32",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "ff7937f1-16bf-41cd-b448-41b34e744e4b",
+    "Name": "Spider-44",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.318591114150267,
+    "Id": "0f35ca94-6a30-47b1-9e72-baf86f816d6e",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "fe91a432-618d-43eb-91b0-b799f86fbb62",
+    "Name": "Spider-75",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "391fcec1-f438-44b0-8c90-1454bf86d381",
+    "Name": "Spider-52",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.5061478605502698,
+    "Id": "bfae0926-ed92-44d4-90af-d0a693f8fcde",
+    "Name": "Fly-58",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "b8082a34-bd74-4a8b-9b06-61185b2f23df",
+    "Name": "Spider-72",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.057686802619837,
+    "Id": "95620f99-f599-43dd-9254-9500bfd13757",
+    "Name": "Fly-41",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.2579307668230197,
+    "Id": "611e6fbc-f86f-46b0-88de-df0088059dd8",
+    "Name": "Fly-78",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "8f92dd2b-1d9c-45d2-9c7a-ea9c260ce018",
+    "Name": "Spider-63",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "a2d24acd-28da-4963-9745-4cf36114f291",
+    "Name": "Spider-45",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "30fafa88-745c-4c93-89d8-5ff26e3a38c4",
+    "Name": "Spider-27",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "6bfad255-4988-4115-a422-c3cbb6e870af",
+    "Name": "Spider-36",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.3970966912651991,
+    "Id": "1225349b-ed91-4a6f-802a-925ad8f55908",
+    "Name": "Fly-73",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "4a9824fa-9c09-4e2a-90f7-fffc065d4fb0",
+    "Name": "Spider-90",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "bac80433-9226-4293-9d3b-bbe99c734d54",
+    "Name": "Spider-39",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "414fe608-2946-4b2d-80ca-12473713fa71",
+    "Name": "Spider-73",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.245025662232659,
+    "Id": "b1b04b96-15ca-41b0-afae-ebb9bf40f0fa",
+    "Name": "Fly-5",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.879622788945147,
+    "Id": "65462452-85bf-44d8-881f-42dde805d0cd",
+    "Name": "Fly-25",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "485e9f13-3793-49ee-be62-a265fac84e0b",
+    "Name": "Spider-53",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "8fa9353e-d1f3-4b36-b9e2-4e2da51365b1",
+    "Name": "Spider-25",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.8879202281656005,
+    "Id": "5fae43c3-c89a-4fff-9110-4b5a65e71b9c",
+    "Name": "Fly-31",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.5817530892011619,
+    "Id": "6ac09f6b-4725-42dd-994e-a03da59ecb2a",
+    "Name": "Fly-86",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "c9dbaba9-5f14-4c40-a98f-a4a72641cd5f",
+    "Name": "Spider-25",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.617175212427944,
+    "Id": "63fbc4c7-32fc-4c18-8528-5d763aea8442",
+    "Name": "Fly-8",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.955735794092548,
+    "Id": "b60c6271-7fa9-44cf-b3f6-fe7f8d859c92",
+    "Name": "Fly-63",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.4039220260640791,
+    "Id": "05702009-27c4-4fa2-a22f-1dc0f05dfbbb",
+    "Name": "Fly-49",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.1508603705256588,
+    "Id": "c6815cf2-b91b-489d-80f3-9f2b88f264af",
+    "Name": "Fly-26",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "94a0dd6a-728a-4c5d-875d-c55e98d4c416",
+    "Name": "Spider-38",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "101fd45b-a988-4135-b78f-778e98c98804",
+    "Name": "Spider-91",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "064f8e05-fd8e-4d59-98e4-534aa2843dec",
+    "Name": "Spider-36",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.8554196263859595,
+    "Id": "6f1d35e4-5ab5-44a0-ab97-0f3e0f36fb53",
+    "Name": "Fly-10",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.3150151517213129,
+    "Id": "9e3e3a5e-4ae7-42f4-8ab8-81e0750d094c",
+    "Name": "Fly-96",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.04452901917451679,
+    "Id": "e935a0ec-1a3d-4744-a9f0-560af1e6248d",
+    "Name": "Fly-6",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "df84c660-9e25-4932-982c-d0c35c34bf40",
+    "Name": "Spider-54",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.278836688989733,
+    "Id": "20121b3f-e95b-4c54-8a35-6a97ca58638b",
+    "Name": "Fly-87",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "8d60f43e-315b-4808-97a9-ad5aa278c69f",
+    "Name": "Spider-2",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.37855299353952043,
+    "Id": "50f74a53-02dd-44ce-baf7-e9188d656a74",
+    "Name": "Fly-49",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d7995ec5-6fec-4275-9027-7d4944234eb2",
+    "Name": "Spider-77",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.532497200293419,
+    "Id": "13217587-680f-4587-9ba9-fe7dc205f495",
+    "Name": "Fly-40",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.6418475398981283,
+    "Id": "44c987a1-0470-4aef-bfa3-8e09477e3536",
+    "Name": "Fly-37",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.6040424420804267,
+    "Id": "41d91b9c-6177-42d5-8210-ace2c8f9ab6f",
+    "Name": "Fly-67",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.68347581118239,
+    "Id": "fe2a72d4-4931-43ab-a498-6aaead4546fa",
+    "Name": "Fly-63",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "7be8d7d0-1d04-431b-83b4-077668c3fa10",
+    "Name": "Spider-18",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "736f10c6-3767-4cbe-b6a5-ee637cd5be54",
+    "Name": "Spider-81",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "a228bc94-d6f5-4365-9236-c6e01fcc83b5",
+    "Name": "Spider-51",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "49c1f63a-293f-44d0-a393-12a91feaed03",
+    "Name": "Spider-86",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "38632ca2-517c-40e7-92c0-067689d73f18",
+    "Name": "Spider-54",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.5618108462015545,
+    "Id": "b656d482-e8de-49c5-b0ce-14b062db81a6",
+    "Name": "Fly-90",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "d7ceee90-bccf-4e3f-8151-ed9c559fb5fb",
+    "Name": "Spider-45",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.1599636491336636,
+    "Id": "351b1c89-4835-4e89-a613-0ddd120701cb",
+    "Name": "Fly-95",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "81ce1904-1122-4515-bfe7-d63585b6fc72",
+    "Name": "Spider-14",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.1025758617811088,
+    "Id": "cef0846f-8c7e-435f-9b48-32ed6e9a49e7",
+    "Name": "Fly-50",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "f3717b33-fb4b-411a-81e8-272af10a0459",
+    "Name": "Spider-35",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.560027817145985,
+    "Id": "4f85d8a4-402d-427e-a50f-b74dbdf3fc47",
+    "Name": "Fly-15",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "8b2797ea-b603-4784-87af-31acf53e2044",
+    "Name": "Spider-28",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.0928867666902087,
+    "Id": "aaef9e51-4b8c-4de7-8e1b-b04aeb616a41",
+    "Name": "Fly-86",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.190757839069386,
+    "Id": "114fa041-6c43-4e46-9de7-ac92fdaa0f05",
+    "Name": "Fly-53",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "0791a7f2-38ab-41d7-a257-2e3d42dcb905",
+    "Name": "Spider-19",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.4768160067970992,
+    "Id": "5be9b130-678b-4015-84b3-9266fe9ab2ca",
+    "Name": "Fly-8",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.113163732053361,
+    "Id": "ebb5a982-0ec0-4210-bf3d-8aea33d82e75",
+    "Name": "Fly-98",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.500540111176292,
+    "Id": "b804a573-ea01-4426-9e51-c9b7db9eec29",
+    "Name": "Fly-61",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "0250c61b-7d44-49fd-9f96-40aec4f9dda6",
+    "Name": "Spider-2",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "333b939b-99ae-4c32-95b6-0ff32bb6ec26",
+    "Name": "Spider-46",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "b5b68bf4-0c19-4f49-95bb-f9cf2085cc3b",
+    "Name": "Spider-24",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.6658479199659864,
+    "Id": "1e325941-bdae-4668-b991-d46bb85f7436",
+    "Name": "Fly-22",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "2a3f6b3b-8d94-4d01-90c7-6692b67bcd30",
+    "Name": "Spider-42",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "ebec8a80-d4c1-4757-84ba-2238a37e6675",
+    "Name": "Spider-27",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.374781213822415,
+    "Id": "d127eaac-0937-41ae-8e38-ab927d422de6",
+    "Name": "Fly-30",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.2698596880727155,
+    "Id": "30a93ef4-2f17-4e94-8832-6dbd62c6efaf",
+    "Name": "Fly-67",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "e003ec13-9ec9-40be-bca9-5bc5b9b98817",
+    "Name": "Spider-3",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "3a7e4481-0a00-46de-a9b6-47bbb06f5c57",
+    "Name": "Spider-9",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.222853698390165,
+    "Id": "25b5808d-d36f-440c-9657-f2bd11cbd9a0",
+    "Name": "Fly-94",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "2c98fbc7-feb4-4eb0-8ee5-d07006f8475b",
+    "Name": "Spider-30",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "12583c28-51eb-49a9-a1b8-6c1c718cf06b",
+    "Name": "Spider-15",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "5f5af97e-4b76-4953-8ec0-39f2f4b9ddf2",
+    "Name": "Spider-95",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "91f70134-ccef-4a2d-925b-9838916d821b",
+    "Name": "Spider-16",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.8117698682201655,
+    "Id": "0c2ed3cc-6d04-4827-82fa-f626a8dab700",
+    "Name": "Fly-91",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "8dbdbc80-213c-4751-91e7-2d1b27779074",
+    "Name": "Spider-13",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "a9e52d1a-3afa-444e-9c03-756775208ca3",
+    "Name": "Spider-87",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "9b1750fe-1e68-47ab-a0b9-5a94396c53cb",
+    "Name": "Spider-77",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.3204983516633844,
+    "Id": "d7e58a43-528e-487d-9512-4904288ba8a6",
+    "Name": "Fly-17",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "ff6da1df-f7d6-4186-8fad-47d33a6650be",
+    "Name": "Spider-64",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.4495584399897696,
+    "Id": "5cac8588-26c9-408c-afdb-8855aa27911a",
+    "Name": "Fly-5",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "f1a4b93d-8bc2-41e2-80c3-717c793552bf",
+    "Name": "Spider-74",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "0913cbc8-871c-4135-b0e5-dca7844e8011",
+    "Name": "Spider-40",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "3426e248-0f7e-4ca8-bed8-20f1b1cce31f",
+    "Name": "Spider-49",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.5397602157072305,
+    "Id": "0b4f7a42-538a-4d8e-a927-60dbc7c11f58",
+    "Name": "Fly-72",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.3756664161516783,
+    "Id": "14d8d4df-026c-4849-aca8-3d351b493a0d",
+    "Name": "Fly-70",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "cb46ca30-d758-4998-90c2-cf207d1120f0",
+    "Name": "Spider-99",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.2490499269387969,
+    "Id": "ebfc1b13-d612-4da3-aac9-d2f658bc6598",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.008211058989484044,
+    "Id": "797a87fa-3076-4d3f-ac68-dfd5e5c07ba5",
+    "Name": "Fly-67",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.4972841803876298,
+    "Id": "2584a1df-6797-4bfd-a614-590a9f461c7a",
+    "Name": "Fly-17",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.417720518660913,
+    "Id": "fb61ef05-6410-4275-9d2c-ee0159d087c3",
+    "Name": "Fly-74",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.0565789087232753,
+    "Id": "051d7085-e362-4793-88e3-706e0e88b870",
+    "Name": "Fly-23",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "6780472e-b018-407a-a731-9c82016474b9",
+    "Name": "Spider-2",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.696275002947044,
+    "Id": "d2221ff8-bb69-459e-98e5-5a1aa71871a8",
+    "Name": "Fly-22",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "3f6bfc10-a33b-4c24-961d-f12c28597b8d",
+    "Name": "Spider-21",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.929609631021443,
+    "Id": "8a98c73b-dd2d-4fb4-b6b4-433425e4d77e",
+    "Name": "Fly-78",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.8279420733963017,
+    "Id": "258b7d06-6496-478d-9d1b-23e141d184b9",
+    "Name": "Fly-16",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.123084307708658,
+    "Id": "721be271-5150-47df-9c77-750df98f0113",
+    "Name": "Fly-27",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.6174969651866618,
+    "Id": "301c2688-2d54-489c-8481-a0e342340432",
+    "Name": "Fly-1",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.46432550545563334,
+    "Id": "0ce23994-af85-40fe-9316-d9b15f38de37",
+    "Name": "Fly-8",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9969299205342095,
+    "Id": "1468ef39-01bc-4012-841a-436daec7c4be",
+    "Name": "Fly-35",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.430113951525453,
+    "Id": "3e8c7901-3934-4bc7-be31-0fbcf50947f8",
+    "Name": "Fly-24",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "6197ad60-9d8b-447e-b117-a60bf8b8c42e",
+    "Name": "Spider-47",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.357096423473789,
+    "Id": "e43594ff-ef24-468e-af6d-13908893a5e3",
+    "Name": "Fly-76",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "5fbd1420-ea05-4f4d-9102-5e3d84fa75d4",
+    "Name": "Spider-8",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "630c73a5-c674-4050-ab7c-0f3463134886",
+    "Name": "Spider-41",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.8162198878918727,
+    "Id": "8d8154f0-4167-4d79-97cf-4e31f32b4ebf",
+    "Name": "Fly-17",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "78d6f947-d251-4513-bc98-ab3655cc44ae",
+    "Name": "Spider-89",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "b983e303-1559-4040-a1ab-371d47564656",
+    "Name": "Spider-67",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.740023585893158,
+    "Id": "122f7c16-f2a4-4881-ad4a-da07aa59a33e",
+    "Name": "Fly-90",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "293bc06d-c311-453d-a48a-23202739db6e",
+    "Name": "Spider-95",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.7450630529590008,
+    "Id": "b02035a7-281a-4a12-ae00-ebd705a5cc5b",
+    "Name": "Fly-71",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.913688606360643,
+    "Id": "98ae118e-051a-4ac3-907c-26ad2e158087",
+    "Name": "Fly-52",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "38223921-904e-42b2-b132-23f482668c06",
+    "Name": "Spider-38",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "1184c3b2-831f-4ca2-9042-8475801059f6",
+    "Name": "Spider-29",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "1cd86b09-f047-4baf-933d-c59dd7743bb7",
+    "Name": "Spider-82",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.424368553128305,
+    "Id": "37b8ba82-6557-40c0-a2ab-c09e1022cdec",
+    "Name": "Fly-45",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "18b01dc1-3dc7-4692-b3b3-6d2fb7188eda",
+    "Name": "Spider-67",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.9127911476355743,
+    "Id": "12b76137-9985-4e05-8059-0313b544fc87",
+    "Name": "Fly-54",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "0e3ec135-f231-491b-92b9-48347a24b370",
+    "Name": "Spider-42",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "4aba215e-1e8e-48d5-ae66-2fd82ab406ad",
+    "Name": "Spider-21",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "006b0a60-8c80-41d4-8ce7-e0e96c4d5299",
+    "Name": "Spider-88",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "105b2e14-3abb-4fcc-8609-809d55872c17",
+    "Name": "Spider-36",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "84b12e7f-44e6-4016-90a0-c8519021aec9",
+    "Name": "Spider-4",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "56d993ee-7ae6-4696-ad2f-a389e795cc9c",
+    "Name": "Spider-49",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "dc2b7d3f-1bf8-477a-9c45-d11311e27afc",
+    "Name": "Spider-73",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.5251168945349596,
+    "Id": "f00e7eb4-19e8-44c0-95c2-023554ae3362",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.932600217784555,
+    "Id": "23eda3b3-4413-4c47-8e47-5870ee758cd9",
+    "Name": "Fly-18",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "e5a5a65c-f549-42cb-bdfd-8fd46f5caddc",
+    "Name": "Spider-81",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "5131aa52-e9a8-4989-b2ca-f2cc6a11a420",
+    "Name": "Spider-4",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.8442390446320889,
+    "Id": "c2811431-2f44-4acf-aaf5-9f7d7c94cfd1",
+    "Name": "Fly-60",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "4cf45cef-7631-4593-93ee-b4e336b4cad1",
+    "Name": "Spider-86",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.31368229376443624,
+    "Id": "9f7767ef-e6ba-43b2-bee9-36398a382a9f",
+    "Name": "Fly-74",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "5dc546ea-4f92-4c52-a90e-0759cb50721f",
+    "Name": "Spider-27",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "00fc570f-163d-4d8f-ad53-468114fb806a",
+    "Name": "Spider-46",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "e2a6b8be-02f9-485e-aa6c-e1a109355d02",
+    "Name": "Spider-64",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "4e8fd5f5-eef1-41e5-a55b-84fc997214e0",
+    "Name": "Spider-4",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.3886079107566037,
+    "Id": "917da86b-43d2-4e35-a4d0-b4f9b0119215",
+    "Name": "Fly-78",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "98204cde-f0ba-4b23-8938-97f97cb49952",
+    "Name": "Spider-97",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "25b07ac0-0487-4a9a-963c-0a0a0382430e",
+    "Name": "Spider-76",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.569047377461395,
+    "Id": "73cbb1ba-d1c4-4aed-91db-2d15478395d1",
+    "Name": "Fly-39",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.4230980020863724,
+    "Id": "c64626ee-f49a-444e-8e1c-608b813b574e",
+    "Name": "Fly-36",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.9830825957929163,
+    "Id": "bf4003d3-a50f-42a8-ac6b-f3efa962b311",
+    "Name": "Fly-1",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.6199894559794092,
+    "Id": "08cd21dd-b2b4-4f31-a818-859564d8aa34",
+    "Name": "Fly-48",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "845e4016-5079-4493-a1d7-1dbb841e3ca2",
+    "Name": "Spider-30",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 1.252126683624738,
+    "Id": "b7735efb-2203-41fd-bc34-7f9481f48615",
+    "Name": "Fly-61",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.805459644015676,
+    "Id": "362fbf6d-d0c6-4e7d-bc17-c40d1a3cb9d6",
+    "Name": "Fly-81",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "cc4aa19c-af89-41b5-a730-80427589b973",
+    "Name": "Spider-89",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "27b1ef17-cad2-45e2-a80a-140760cf8c68",
+    "Name": "Spider-92",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.0328351625647967,
+    "Id": "e462c971-860d-4c67-a030-bd0d2d3820a1",
+    "Name": "Fly-15",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.3704532430925984,
+    "Id": "fc71e052-4376-42bf-91c1-73b901480857",
+    "Name": "Fly-41",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "3f17e940-d9ae-4fbc-b1c0-fa69859e9521",
+    "Name": "Spider-87",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "7363cc6c-d7cf-416f-906c-723aab31efd5",
+    "Name": "Spider-64",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "f71091c6-9cf8-4e15-b66d-909c77a199bc",
+    "Name": "Spider-22",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.9878046728867662,
+    "Id": "7002177b-5565-4b2f-9373-00caf71d531d",
+    "Name": "Fly-66",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.930735106150442,
+    "Id": "9c747193-d6df-43fb-b24d-50f4ad2468ce",
+    "Name": "Fly-94",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "cae2d50b-5c68-4bbd-a398-09f77b7d7a01",
+    "Name": "Spider-6",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "5a50282f-4880-45cf-9945-05343e4d9f67",
+    "Name": "Spider-81",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "ebaf3d80-54e8-4166-8948-7025434fb40a",
+    "Name": "Spider-19",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.9644611610230747,
+    "Id": "19dd5564-8d6d-446a-a93c-85fad3ab9bdd",
+    "Name": "Fly-75",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.7679237116694484,
+    "Id": "3a8e05cc-22c2-4d1a-829f-7507c64f4ca5",
+    "Name": "Fly-76",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 4.018253467172039,
+    "Id": "bfb94a91-a580-465e-bb0d-2de043119414",
+    "Name": "Fly-41",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.2073367275533395,
+    "Id": "3096622b-8410-4941-a91f-2c1cfbfddbb3",
+    "Name": "Fly-80",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "8ae6b39c-d085-4ba2-ad72-26a12e3a1f6b",
+    "Name": "Spider-57",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "fea905e0-c9fb-46d0-a17a-8fb56123a72d",
+    "Name": "Spider-30",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "9cfe1b7c-a0b1-4aed-b58a-2ba23e44d452",
+    "Name": "Spider-63",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "75d9b050-af11-4374-9246-8009a8204d47",
+    "Name": "Spider-16",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "8eb8c69b-1386-4a95-a96b-13de33fd189d",
+    "Name": "Spider-7",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 0.7745601977444255,
+    "Id": "efdc9835-7ece-4794-bbf9-be7fec86425c",
+    "Name": "Fly-35",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "98897c59-424e-43a5-8654-27fd61ec5247",
+    "Name": "Spider-43",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "de8b94b0-1ff2-4f2c-8e39-9d331d83b138",
+    "Name": "Spider-94",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 3.556799653146412,
+    "Id": "0c51c2da-e4ef-42c3-a79a-a7ae3a376762",
+    "Name": "Fly-71",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "688c7206-cf0f-4a3e-b580-7adb4d1cd184",
+    "Name": "Spider-7",
+    "Legs": 8
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.8077035871789224,
+    "Id": "4fe50a8b-6967-43a6-ab08-13b1e5e8879b",
+    "Name": "Fly-4",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.85866892115315,
+    "Id": "68535087-cae3-46a5-a4d3-8eb71fffbb79",
+    "Name": "Fly-10",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.1544937809030715,
+    "Id": "c13a9671-5564-43f5-a1ab-096f9d93b52d",
+    "Name": "Fly-95",
+    "Legs": 6
+  },
+  {
+    "$type": "fly",
+    "WingSpan": 2.398539871861831,
+    "Id": "d29dcf25-1200-419e-a6d1-1d06c909cd0c",
+    "Name": "Fly-34",
+    "Legs": 6
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "0ad41453-4b75-4b82-9b8a-b7d118d6acc7",
+    "Name": "Spider-59",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": false,
+    "Id": "a4ea2507-22a6-4abc-8c1d-f5287ddc6d55",
+    "Name": "Spider-37",
+    "Legs": 8
+  },
+  {
+    "$type": "spider",
+    "IsPoisonous": true,
+    "Id": "5ac3fe43-a1c1-45bc-8051-4c7a16eb1731",
+    "Name": "Spider-14",
+    "Legs": 8
+  }
+]
