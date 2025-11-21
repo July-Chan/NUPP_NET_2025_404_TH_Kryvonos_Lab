@@ -1,0 +1,6 @@
+@PublicTransit.REST_HostAddress = http://localhost:5291
+
+GET {{PublicTransit.REST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
